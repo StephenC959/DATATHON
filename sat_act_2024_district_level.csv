@@ -1,0 +1,1072 @@
+District,DistName,County,CntyName,Region,RegnName,Grads_Mskd,Exnees_Mskd,Part_Rate,Crit_Mskd,Above_Crit_Rate,TSI_Both_Mskd,Above_TSI_Both_Rate,Year
+1902,Cayuga ISD,1,Anderson County,7,Kilgore,<50,<50,100.0,<25,2.7,<25,24.3,2024
+1903,Elkhart ISD,1,Anderson County,7,Kilgore,<75,<50,36.2,<25,8.0,<25,32.0,2024
+1904,Frankston ISD,1,Anderson County,7,Kilgore,<50,<50,100.0,<25,8.3,<25,16.7,2024
+1906,Neches ISD,1,Anderson County,7,Kilgore,<25,<25,63.2,<25,8.3,<25,66.7,2024
+1907,Palestine ISD,1,Anderson County,7,Kilgore,<250,<100,34.9,<50,32.1,<50,60.5,2024
+1908,Westwood ISD,1,Anderson County,7,Kilgore,<100,<75,53.7,<25,15.7,<25,19.6,2024
+1909,Slocum ISD,1,Anderson County,7,Kilgore,<25,<25,61.1,<25,18.2,<25,45.5,2024
+2901,Andrews ISD,2,Andrews County,18,Midland,259,122,47.1,21,17.2,41,33.6,2024
+3801,Pineywoods Community Academy,3,Angelina County,7,Kilgore,<75,<25,29.8,<25,5.9,<25,17.6,2024
+3902,Hudson ISD,3,Angelina County,7,Kilgore,178,89,50.0,31,34.8,49,55.1,2024
+3903,Lufkin ISD,3,Angelina County,7,Kilgore,499,431,86.4,59,13.7,97,22.5,2024
+3904,Huntington ISD,3,Angelina County,7,Kilgore,<150,<50,31.2,<25,25.6,<25,53.8,2024
+3905,Diboll ISD,3,Angelina County,7,Kilgore,<150,<75,56.7,<25,2.8,<25,13.9,2024
+3906,Zavalla ISD,3,Angelina County,7,Kilgore,<25,<25,29.4,<25,,<25,40.0,2024
+3907,Central ISD,3,Angelina County,7,Kilgore,<125,<75,70.9,<25,13.7,<25,32.9,2024
+4901,Rockport-Fulton ISD,4,Aransas County,2,Corpus Christi,<200,<200,94.8,<25,7.2,<50,19.3,2024
+5901,Archer City ISD,5,Archer County,9,Wichita Falls,<50,<50,100.0,<25,8.3,<25,11.1,2024
+5902,Holliday ISD,5,Archer County,9,Wichita Falls,89,60,67.4,22,36.7,38,63.3,2024
+5904,Windthorst ISD,5,Archer County,9,Wichita Falls,<50,<50,88.2,<25,16.7,<25,33.3,2024
+6902,Claude ISD,6,Armstrong County,16,Amarillo,<25,<25,100.0,<25,13.6,<25,36.4,2024
+7901,Charlotte ISD,7,Atascosa County,20,San Antonio,<50,<25,65.5,<25,,<25,,2024
+7902,Jourdanton ISD,7,Atascosa County,20,San Antonio,<100,<100,81.4,<25,10.1,<25,24.1,2024
+7904,Lytle ISD,7,Atascosa County,20,San Antonio,<125,<50,24.8,<25,3.8,<25,15.4,2024
+7905,Pleasanton ISD,7,Atascosa County,20,San Antonio,<225,<150,66.8,<25,11.7,<75,35.9,2024
+7906,Poteet ISD,7,Atascosa County,20,San Antonio,<150,<75,55.4,<25,6.9,<25,12.5,2024
+8901,Bellville ISD,8,Austin County,6,Huntsville,174,104,59.8,27,26.0,51,49.0,2024
+8902,Sealy ISD,8,Austin County,6,Huntsville,<200,<125,55.3,<25,17.4,<50,38.5,2024
+8903,Brazos ISD,8,Austin County,6,Huntsville,<75,<75,92.2,<25,11.9,<25,25.4,2024
+9901,Muleshoe ISD,9,Bailey County,17,Lubbock,<100,<100,92.8,<25,11.7,<25,16.9,2024
+10901,Medina ISD,10,Bandera County,20,San Antonio,<25,<25,27.8,<25,40.0,<25,40.0,2024
+10902,Bandera ISD,10,Bandera County,20,San Antonio,<175,<175,91.1,<25,11.7,<50,18.8,2024
+11901,Bastrop ISD,11,Bastrop County,13,Austin,"1,017",817,80.3,63,7.7,136,16.6,2024
+11902,Elgin ISD,11,Bastrop County,13,Austin,<425,<400,89.8,<25,3.9,<50,8.7,2024
+11904,Smithville ISD,11,Bastrop County,13,Austin,<150,<125,88.6,<25,11.1,<50,26.5,2024
+11905,McDade ISD,11,Bastrop County,13,Austin,<25,<25,100.0,<25,4.2,<25,20.8,2024
+12901,Seymour ISD,12,Baylor County,9,Wichita Falls,46,33,71.7,7,21.2,8,24.2,2024
+13901,Beeville ISD,13,Bee County,2,Corpus Christi,<225,<150,68.5,<25,2.7,<25,8.2,2024
+13903,Pettus ISD,13,Bee County,2,Corpus Christi,<25,<25,14.3,<25,33.3,<25,33.3,2024
+13905,Skidmore-Tynan ISD,13,Bee County,2,Corpus Christi,<75,<25,29.0,<25,16.7,<25,22.2,2024
+14801,Richard Milburn Alter HS,14,Bell County,20,San Antonio,<350,<25,1.8,<25,,<25,,2024
+14803,Priority Charter Schools,14,Bell County,12,Waco,<25,<25,50.0,<25,,<25,8.3,2024
+14804,Orenda Charter School,14,Bell County,12,Waco,<125,<125,98.2,<50,27.0,<50,40.5,2024
+14901,Academy ISD,14,Bell County,12,Waco,113,77,68.1,16,20.8,30,39.0,2024
+14902,Bartlett ISD,14,Bell County,13,Austin,<50,<50,97.0,<25,,<25,,2024
+14903,Belton ISD,14,Bell County,12,Waco,"1,009",933,92.5,102,10.9,198,21.2,2024
+14905,Holland ISD,14,Bell County,12,Waco,<50,<50,73.3,<25,9.1,<25,33.3,2024
+14906,Killeen ISD,14,Bell County,12,Waco,"2,565","2,360",92.0,186,7.9,466,19.7,2024
+14907,Rogers ISD,14,Bell County,12,Waco,<75,<25,26.6,<25,23.5,<25,58.8,2024
+14908,Salado ISD,14,Bell County,12,Waco,180,75,41.7,24,32.0,39,52.0,2024
+14909,Temple ISD,14,Bell County,12,Waco,<650,<425,63.0,<25,5.7,<75,14.4,2024
+14910,Troy ISD,14,Bell County,12,Waco,<125,<100,76.7,<25,10.1,<25,16.9,2024
+15801,Por Vida Academy,15,Bexar County,20,San Antonio,<100,<25,4.9,<25,,<25,,2024
+15802,George Gervin Academy,15,Bexar County,20,San Antonio,<75,<50,53.1,<25,,<25,,2024
+15805,New Frontiers Public Schools Inc,15,Bexar County,20,San Antonio,<50,<50,100.0,<25,6.1,<25,16.3,2024
+15806,Legacy Traditional Schools-Texas,15,Bexar County,20,San Antonio,<25,<25,100.0,<25,4.5,<25,,2024
+15807,Southwest Preparatory School,15,Bexar County,20,San Antonio,<50,<50,57.8,<25,,<25,,2024
+15808,Inspire Academies,15,Bexar County,20,San Antonio,<50,<50,64.3,<25,3.7,<25,11.1,2024
+15815,Heritage Academy,15,Bexar County,20,San Antonio,<50,<50,97.1,<25,,<25,,2024
+15822,Jubilee Academies,15,Bexar County,20,San Antonio,<175,<175,100.0,<25,2.3,<25,8.0,2024
+15827,School of Science and Technology,15,Bexar County,20,San Antonio,<25,<75,,<25,23.6,<25,38.2,2024
+15828,Harmony Public Schools-South Texas,15,Bexar County,20,San Antonio,<325,<325,100.0,<50,14.5,<100,31.3,2024
+15830,Somerset Academies of Texas,15,Bexar County,20,San Antonio,<125,<100,70.5,<25,7.0,<25,10.5,2024
+15831,School of Science and Technology,15,Bexar County,20,San Antonio,<25,<75,,<25,19.6,<25,35.7,2024
+15833,Henry Ford Academy Alameda,15,Bexar County,20,San Antonio,<25,<25,10.0,<25,,<25,,2024
+15834,Basis Texas,15,Bexar County,20,San Antonio,<75,<75,100.0,<75,93.2,<75,95.9,2024
+15835,Great Hearts Texas,15,Bexar County,20,San Antonio,<175,<175,100.0,<100,48.1,<125,67.9,2024
+15838,Compass Rose Public Schools,15,Bexar County,20,San Antonio,<75,<75,94.7,<25,1.9,<25,9.3,2024
+15840,San Antonio STEAM Academy,15,Bexar County,20,San Antonio,<25,<25,,<25,,<25,,2024
+15901,Alamo Heights ISD,15,Bexar County,20,San Antonio,385,358,93.0,144,40.2,206,57.5,2024
+15904,Harlandale ISD,15,Bexar County,20,San Antonio,948,742,78.3,22,3.0,79,10.6,2024
+15905,Edgewood ISD,15,Bexar County,20,San Antonio,<500,<375,75.3,<25,0.8,<25,4.7,2024
+15906,Randolph Field ISD,15,Bexar County,20,San Antonio,<125,<125,98.2,<50,25.0,<50,44.4,2024
+15907,San Antonio ISD,15,Bexar County,20,San Antonio,"2,743","2,493",90.9,139,5.6,258,10.3,2024
+15908,South San Antonio ISD,15,Bexar County,20,San Antonio,<500,<425,82.2,<25,2.0,<50,6.2,2024
+15909,Somerset ISD,15,Bexar County,20,San Antonio,<350,<300,88.7,<25,3.1,<25,5.2,2024
+15910,North East ISD,15,Bexar County,20,San Antonio,"4,462","4,160",93.2,886,21.3,"1,451",34.9,2024
+15911,East Central ISD,15,Bexar County,20,San Antonio,<800,<650,81.8,<25,2.4,<75,9.8,2024
+15912,Southwest ISD,15,Bexar County,20,San Antonio,997,959,96.2,34,3.5,97,10.1,2024
+15913,Lackland ISD,15,Bexar County,20,San Antonio,<50,<50,100.0,<25,12.5,<25,27.5,2024
+15914,Ft Sam Houston ISD,15,Bexar County,20,San Antonio,<125,<125,100.0,<50,21.2,<50,35.6,2024
+15915,Northside ISD,15,Bexar County,20,San Antonio,"7,298","6,719",92.1,827,12.3,"1,546",23.0,2024
+15916,Judson ISD,15,Bexar County,20,San Antonio,"1,674","1,688",100.0,118,7.0,208,12.3,2024
+15917,Southside ISD,15,Bexar County,20,San Antonio,<400,<350,87.3,<25,2.4,<25,5.6,2024
+16901,Johnson City ISD,16,Blanco County,13,Austin,<75,<75,98.2,<25,19.6,<25,39.3,2024
+16902,Blanco ISD,16,Blanco County,13,Austin,<100,<100,96.2,<25,10.5,<25,23.7,2024
+17901,Borden County ISD,17,Borden County,17,Lubbock,<25,<25,90.9,<25,20.0,<25,30.0,2024
+18901,Clifton ISD,18,Bosque County,12,Waco,<75,<75,100.0,<25,18.6,<25,30.0,2024
+18902,Meridian ISD,18,Bosque County,12,Waco,<25,<25,100.0,<25,,<25,16.7,2024
+18903,Morgan ISD,18,Bosque County,12,Waco,<25,<25,72.7,<25,,<25,,2024
+18904,Valley Mills ISD,18,Bosque County,12,Waco,<50,<50,93.2,<25,2.4,<25,17.1,2024
+18906,Iredell ISD,18,Bosque County,12,Waco,<25,<25,70.0,<25,42.9,<25,57.1,2024
+18907,Kopperl ISD,18,Bosque County,12,Waco,<25,<25,100.0,<25,,<25,,2024
+18908,Cranfills Gap ISD,18,Bosque County,12,Waco,<25,<25,66.7,<25,,<25,25.0,2024
+19901,DeKalb ISD,19,Bowie County,8,Mt Pleasant,62,54,87.1,9,16.7,8,14.8,2024
+19902,Hooks ISD,19,Bowie County,8,Mt Pleasant,62,54,87.1,14,25.9,15,27.8,2024
+19903,Maud ISD,19,Bowie County,8,Mt Pleasant,<50,<50,97.1,<25,3.0,<25,12.1,2024
+19905,New Boston ISD,19,Bowie County,8,Mt Pleasant,<100,<100,92.6,<25,6.7,<25,10.7,2024
+19906,Redwater ISD,19,Bowie County,8,Mt Pleasant,<100,<100,100.0,<25,14.1,<25,24.7,2024
+19907,Texarkana ISD,19,Bowie County,8,Mt Pleasant,457,220,48.1,61,27.7,74,33.6,2024
+19908,Liberty-Eylau ISD,19,Bowie County,8,Mt Pleasant,<150,<150,90.1,<25,5.5,<25,6.3,2024
+19909,Simms ISD,19,Bowie County,8,Mt Pleasant,<50,<50,91.4,<25,18.8,<25,18.8,2024
+19912,Pleasant Grove ISD,19,Bowie County,8,Mt Pleasant,<175,<175,96.4,<50,30.6,<75,31.9,2024
+20901,Alvin ISD,20,Brazoria County,4,Houston,"2,182","1,898",87.0,295,15.5,524,27.6,2024
+20902,Angleton ISD,20,Brazoria County,4,Houston,<500,<175,30.7,<25,12.5,<50,27.0,2024
+20904,Danbury ISD,20,Brazoria County,4,Houston,<75,<25,44.4,<25,20.8,<25,25.0,2024
+20905,Brazosport ISD,20,Brazoria County,4,Houston,872,683,78.3,53,7.8,126,18.4,2024
+20906,Sweeny ISD,20,Brazoria County,4,Houston,<150,<150,96.5,<25,7.9,<50,18.0,2024
+20907,Columbia-Brazoria ISD,20,Brazoria County,4,Houston,<225,<100,43.1,<25,6.9,<25,19.5,2024
+20908,Pearland ISD,20,Brazoria County,4,Houston,"1,724",993,57.6,452,45.5,642,64.7,2024
+21901,College Station ISD,21,Brazos County,6,Huntsville,"1,005",657,65.4,312,47.5,426,64.8,2024
+21902,Bryan ISD,21,Brazos County,6,Huntsville,"1,096",679,62.0,80,11.8,154,22.7,2024
+22004,Terlingua CSD,22,Brewster County,18,Midland,<25,<25,58.3,<25,14.3,<25,14.3,2024
+22901,Alpine ISD,22,Brewster County,18,Midland,<100,<50,53.2,<25,21.4,<25,42.9,2024
+22902,Marathon ISD,22,Brewster County,18,Midland,<25,<25,75.0,<25,,<25,,2024
+23902,Silverton ISD,23,Briscoe County,16,Amarillo,<25,<25,95.2,<25,,<25,10.0,2024
+24901,Brooks County ISD,24,Brooks County,1,Edinburg,<100,<25,25.0,<25,,<25,9.5,2024
+25901,Bangs ISD,25,Brown County,15,San Angelo,<75,<50,92.3,<25,12.5,<25,14.6,2024
+25902,Brownwood ISD,25,Brown County,15,San Angelo,<225,<150,72.6,<25,10.3,<50,25.3,2024
+25905,May ISD,25,Brown County,15,San Angelo,<25,<25,82.6,<25,,<25,15.8,2024
+25906,Zephyr ISD,25,Brown County,15,San Angelo,<25,<25,30.0,<25,,<25,33.3,2024
+25908,Brookesmith ISD,25,Brown County,15,San Angelo,<25,<25,58.3,<25,14.3,<25,,2024
+25909,Early ISD,25,Brown County,15,San Angelo,<100,<50,44.6,<25,45.9,<25,59.5,2024
+26901,Caldwell ISD,26,Burleson County,6,Huntsville,<150,<75,46.7,<25,14.3,<25,36.5,2024
+26902,Somerville ISD,26,Burleson County,6,Huntsville,<50,<50,96.6,<25,3.6,<25,7.1,2024
+26903,Snook ISD,26,Burleson County,6,Huntsville,<50,<25,60.0,<25,,<25,5.6,2024
+27903,Burnet CISD,27,Burnet County,13,Austin,<250,<225,89.0,<25,10.0,<50,19.9,2024
+27904,Marble Falls ISD,27,Burnet County,13,Austin,<325,<275,82.8,<50,10.2,<75,21.1,2024
+28902,Lockhart ISD,28,Caldwell County,13,Austin,<525,<425,80.7,<50,6.2,<75,12.6,2024
+28903,Luling ISD,28,Caldwell County,13,Austin,<100,<100,94.8,<25,2.2,<25,13.0,2024
+28906,Prairie Lea ISD,28,Caldwell County,13,Austin,<25,<25,35.7,<25,,<25,,2024
+29901,Calhoun County ISD,29,Calhoun County,3,Victoria,238,100,42.0,12,12.0,22,22.0,2024
+30901,Cross Plains ISD,30,Callahan County,14,Abilene,<50,<50,100.0,<25,,<25,7.4,2024
+30902,Clyde CISD,30,Callahan County,14,Abilene,<125,<75,52.3,<25,19.3,<25,35.1,2024
+30903,Baird ISD,30,Callahan County,14,Abilene,<25,<25,68.2,<25,20.0,<25,26.7,2024
+30906,Eula ISD,30,Callahan County,14,Abilene,<25,<25,100.0,<25,20.0,<25,25.0,2024
+31505,University of Texas Rio Grande Val,31,Cameron County,1,Edinburg,<25,<50,,<25,68.8,<50,93.8,2024
+31901,Brownsville ISD,31,Cameron County,1,Edinburg,"2,880","1,562",54.2,153,9.8,314,20.1,2024
+31903,Harlingen CISD,31,Cameron County,1,Edinburg,"1,269","1,096",86.4,71,6.5,139,12.7,2024
+31905,La Feria ISD,31,Cameron County,1,Edinburg,<250,<100,36.3,<25,12.6,<25,25.3,2024
+31906,Los Fresnos CISD,31,Cameron County,1,Edinburg,733,235,32.1,52,22.1,104,44.3,2024
+31909,Point Isabel ISD,31,Cameron County,1,Edinburg,143,128,89.5,7,5.5,18,14.1,2024
+31911,Rio Hondo ISD,31,Cameron County,1,Edinburg,<125,<75,51.9,<25,5.6,<25,7.4,2024
+31912,San Benito CISD,31,Cameron County,1,Edinburg,688,592,86.0,16,2.7,56,9.5,2024
+31913,Santa Maria ISD,31,Cameron County,1,Edinburg,<50,<50,88.9,<25,2.5,<25,,2024
+31914,Santa Rosa ISD,31,Cameron County,1,Edinburg,<100,<25,11.5,<25,,<25,11.1,2024
+31916,South Texas ISD,31,Cameron County,1,Edinburg,676,753,100.0,185,24.6,285,37.8,2024
+32902,Pittsburg ISD,32,Camp County,8,Mt Pleasant,147,95,64.6,8,8.4,24,25.3,2024
+33901,Groom ISD,33,Carson County,16,Amarillo,<25,<25,100.0,<25,8.3,<25,16.7,2024
+33902,Panhandle ISD,33,Carson County,16,Amarillo,<50,<50,81.0,<25,23.5,<25,32.4,2024
+33904,White Deer ISD,33,Carson County,16,Amarillo,<25,<25,100.0,<25,8.7,<25,8.7,2024
+34901,Atlanta ISD,34,Cass County,8,Mt Pleasant,<125,<125,100.0,<25,13.5,<25,16.2,2024
+34902,Avinger ISD,34,Cass County,8,Mt Pleasant,<25,<25,100.0,<25,22.2,<25,22.2,2024
+34903,Hughes Springs ISD,34,Cass County,8,Mt Pleasant,<75,<50,55.4,<25,13.9,<25,16.7,2024
+34905,Linden-Kildare CISD,34,Cass County,8,Mt Pleasant,<50,<25,59.0,<25,8.7,<25,8.7,2024
+34906,McLeod ISD,34,Cass County,8,Mt Pleasant,<50,<25,46.4,<25,23.1,<25,23.1,2024
+34907,Queen City ISD,34,Cass County,8,Mt Pleasant,<100,<100,89.8,<25,19.0,<25,17.7,2024
+34909,Bloomburg ISD,34,Cass County,8,Mt Pleasant,<25,<25,19.0,<25,25.0,<25,25.0,2024
+35901,Dimmitt ISD,35,Castro County,16,Amarillo,<75,<75,98.4,<25,6.5,<25,14.5,2024
+35902,Hart ISD,35,Castro County,16,Amarillo,<25,<25,46.7,<25,,<25,,2024
+35903,Nazareth ISD,35,Castro County,16,Amarillo,<25,<25,100.0,<25,34.8,<25,39.1,2024
+36901,Anahuac ISD,36,Chambers County,4,Houston,<125,<75,47.7,<25,2.0,<25,13.7,2024
+36902,Barbers Hill ISD,36,Chambers County,4,Houston,436,392,89.9,86,21.9,177,45.2,2024
+36903,East Chambers ISD,36,Chambers County,5,Beaumont,<125,<75,65.7,<25,4.3,<25,23.2,2024
+37901,Alto ISD,37,Cherokee County,7,Kilgore,<50,<25,42.9,<25,13.3,<25,26.7,2024
+37904,Jacksonville ISD,37,Cherokee County,7,Kilgore,<325,<300,88.0,<25,5.3,<50,9.8,2024
+37907,Rusk ISD,37,Cherokee County,7,Kilgore,<150,<125,98.4,<25,4.8,<25,10.5,2024
+37908,New Summerfield ISD,37,Cherokee County,7,Kilgore,<50,<25,79.3,<25,,<25,8.7,2024
+37909,Wells ISD,37,Cherokee County,7,Kilgore,<25,<25,52.6,<25,,<25,10.0,2024
+38901,Childress ISD,38,Childress County,16,Amarillo,<75,<75,95.5,<25,14.1,<25,20.3,2024
+39902,Henrietta ISD,39,Clay County,9,Wichita Falls,64,51,79.7,10,19.6,15,29.4,2024
+39903,Petrolia CISD,39,Clay County,9,Wichita Falls,<50,<25,56.0,<25,7.1,<25,21.4,2024
+39904,Bellevue ISD,39,Clay County,9,Wichita Falls,<25,<25,84.6,<25,9.1,<25,18.2,2024
+39905,Midway ISD,39,Clay County,9,Wichita Falls,<25,<25,90.0,<25,44.4,<25,33.3,2024
+40901,Morton ISD,40,Cochran County,17,Lubbock,<25,<25,92.9,<25,,<25,,2024
+40902,Whiteface CISD,40,Cochran County,17,Lubbock,<50,<50,100.0,<25,6.5,<25,9.7,2024
+41901,Bronte ISD,41,Coke County,15,San Angelo,<25,<25,90.0,<25,22.2,<25,22.2,2024
+41902,Robert Lee ISD,41,Coke County,15,San Angelo,<25,<25,100.0,<25,8.3,<25,20.8,2024
+42901,Coleman ISD,42,Coleman County,15,San Angelo,<50,<50,79.1,<25,11.8,<25,26.5,2024
+42903,Santa Anna ISD,42,Coleman County,15,San Angelo,<25,<25,100.0,<25,11.8,<25,23.5,2024
+42905,Panther Creek CISD,42,Coleman County,15,San Angelo,<25,<25,63.6,<25,14.3,<25,14.3,2024
+43801,Imagine International Academy,43,Collin County,10,Richardson,43,49,100.0,35,71.4,39,79.6,2024
+43901,Allen ISD,43,Collin County,10,Richardson,"1,753","1,656",94.5,761,46.0,"1,018",61.5,2024
+43902,Anna ISD,43,Collin County,10,Richardson,328,299,91.2,28,9.4,64,21.4,2024
+43903,Celina ISD,43,Collin County,10,Richardson,282,260,92.2,49,18.8,70,26.9,2024
+43904,Farmersville ISD,43,Collin County,10,Richardson,<175,<100,60.4,<25,16.1,<50,36.6,2024
+43905,Frisco ISD,43,Collin County,10,Richardson,"5,225","5,101",97.6,"2,435",47.7,"3,167",62.1,2024
+43907,McKinney ISD,43,Collin County,10,Richardson,"1,842","1,725",93.6,466,27.0,767,44.5,2024
+43908,Melissa ISD,43,Collin County,10,Richardson,377,268,71.1,91,34.0,150,56.0,2024
+43910,Plano ISD,43,Collin County,10,Richardson,"3,577","3,369",94.2,"1,395",41.4,"1,832",54.4,2024
+43911,Princeton ISD,43,Collin County,10,Richardson,513,138,26.9,30,21.7,52,37.7,2024
+43912,Prosper ISD,43,Collin County,10,Richardson,"1,569","1,487",94.8,550,37.0,788,53.0,2024
+43914,Wylie ISD,43,Collin County,10,Richardson,"1,332","1,263",94.8,350,27.7,592,46.9,2024
+43917,Blue Ridge ISD,43,Collin County,10,Richardson,<75,<50,61.2,<25,4.9,<25,14.6,2024
+43918,Community ISD,43,Collin County,10,Richardson,247,231,93.5,17,7.4,32,13.9,2024
+43919,Lovejoy ISD,43,Collin County,10,Richardson,<400,<400,99.7,<200,48.1,<275,67.5,2024
+44902,Wellington ISD,44,Collingsworth County,16,Amarillo,38,27,71.1,7,25.9,8,29.6,2024
+45902,Columbus ISD,45,Colorado County,4,Houston,<150,<125,90.4,<25,9.0,<50,23.0,2024
+45903,Rice CISD,45,Colorado County,3,Victoria,<150,<75,41.7,<25,1.9,<25,5.7,2024
+45905,Weimar ISD,45,Colorado County,3,Victoria,<50,<50,84.1,<25,8.1,<25,29.7,2024
+46901,New Braunfels ISD,46,Comal County,20,San Antonio,714,560,78.4,94,16.8,184,32.9,2024
+46902,Comal ISD,46,Comal County,20,San Antonio,"2,098","1,974",94.1,443,22.4,794,40.2,2024
+47901,Comanche ISD,47,Comanche County,14,Abilene,<100,<50,49.4,<25,10.3,<25,23.1,2024
+47902,De Leon ISD,47,Comanche County,14,Abilene,<75,<50,71.7,<25,10.5,<25,10.5,2024
+47903,Gustine ISD,47,Comanche County,14,Abilene,<25,<25,83.3,<25,,<25,40.0,2024
+47905,Sidney ISD,47,Comanche County,14,Abilene,<25,<25,55.6,<25,20.0,<25,,2024
+48901,Eden CISD,48,Concho County,15,San Angelo,<25,<25,68.4,<25,15.4,<25,7.7,2024
+48903,Paint Rock ISD,48,Concho County,15,San Angelo,<25,<25,56.3,<25,22.2,<25,33.3,2024
+49901,Gainesville ISD,49,Cooke County,11,Fort Worth,<200,<100,41.7,<25,9.3,<25,24.0,2024
+49902,Muenster ISD,49,Cooke County,11,Fort Worth,<50,<50,100.0,<25,21.1,<25,47.4,2024
+49903,Valley View ISD,49,Cooke County,11,Fort Worth,<75,<50,48.4,<25,10.0,<25,30.0,2024
+49905,Callisburg ISD,49,Cooke County,11,Fort Worth,<100,<75,77.9,<25,15.0,<25,31.7,2024
+49906,Era ISD,49,Cooke County,11,Fort Worth,<50,<25,47.5,<25,10.5,<25,31.6,2024
+49907,Lindsay ISD,49,Cooke County,11,Fort Worth,<50,<50,86.2,<25,20.0,<25,40.0,2024
+50901,Evant ISD,50,Coryell County,12,Waco,<25,<25,30.0,<25,33.3,<25,66.7,2024
+50902,Gatesville ISD,50,Coryell County,12,Waco,173,91,52.6,23,25.3,28,30.8,2024
+50904,Oglesby ISD,50,Coryell County,12,Waco,<25,<25,100.0,<25,,<25,,2024
+50909,Jonesboro ISD,50,Coryell County,12,Waco,<25,<25,21.1,<25,25.0,<25,25.0,2024
+50910,Copperas Cove ISD,50,Coryell County,12,Waco,<575,<500,88.1,<50,6.8,<100,17.6,2024
+51901,Paducah ISD,51,Cottle County,17,Lubbock,<25,<25,33.3,<25,75.0,<25,75.0,2024
+52901,Crane ISD,52,Crane County,15,San Angelo,<100,<50,56.1,<25,8.7,<25,17.4,2024
+53001,Crockett County Consolidated CSD,53,Crockett County,15,San Angelo,<75,<25,26.5,<25,22.2,<25,33.3,2024
+54901,Crosbyton CISD,54,Crosby County,17,Lubbock,<25,<25,95.2,<25,5.0,<25,5.0,2024
+54902,Lorenzo ISD,54,Crosby County,17,Lubbock,<25,<25,43.8,<25,,<25,,2024
+54903,Ralls ISD,54,Crosby County,17,Lubbock,<50,<50,97.1,<25,,<25,,2024
+55901,Culberson County-Allamoore ISD,55,Culberson County,18,Midland,<25,<50,100.0,<25,,<25,7.1,2024
+56901,Dalhart ISD,56,Dallam County,16,Amarillo,<125,<50,30.1,<25,19.4,<25,35.5,2024
+56902,Texline ISD,56,Dallam County,16,Amarillo,<25,<25,88.9,<25,12.5,<25,12.5,2024
+57802,Pegasus School of Liberal Arts,57,Dallas County,10,Richardson,<50,<25,14.8,<25,25.0,<25,25.0,2024
+57803,Uplift Education,57,Dallas County,10,Richardson,"1,026","1,088",100.0,167,15.3,200,18.4,2024
+57804,Texans Can Academies,57,Dallas County,10,Richardson,"<1,075",<200,18.7,<25,1.0,<25,1.0,2024
+57806,Advantage Academy,57,Dallas County,10,Richardson,<50,<50,100.0,<25,2.8,<25,2.8,2024
+57807,Life School,57,Dallas County,10,Richardson,<325,<325,97.5,<25,4.4,<50,13.9,2024
+57808,Universal Academy,57,Dallas County,10,Richardson,<50,<50,100.0,<25,5.7,<25,20.0,2024
+57813,Trinity Basin Preparatory,57,Dallas County,10,Richardson,<75,<75,100.0,<25,13.6,<25,24.2,2024
+57819,Jean Massieu Academy,57,Dallas County,10,Richardson,<25,<25,80.0,<25,,<25,25.0,2024
+57828,Winfree Academy Charter Schools,57,Dallas County,10,Richardson,<425,<75,15.3,<25,4.8,<25,3.2,2024
+57829,A+ Academy,57,Dallas County,10,Richardson,<100,<125,100.0,<25,4.0,<25,6.9,2024
+57830,Inspired Vision Academy,57,Dallas County,10,Richardson,<75,<100,100.0,<25,3.3,<25,6.6,2024
+57831,Gateway Charter Academy,57,Dallas County,10,Richardson,<50,<25,14.3,<25,,<25,,2024
+57834,Evolution Academy Charter School,57,Dallas County,10,Richardson,<275,<25,0.4,<25,,<25,,2024
+57835,Golden Rule Charter School,57,Dallas County,10,Richardson,<25,<25,18.2,<25,,<25,,2024
+57840,Richland Collegiate HS,57,Dallas County,10,Richardson,<125,<100,81.5,<50,32.0,<50,48.5,2024
+57844,Manara Academy,57,Dallas County,10,Richardson,<25,<25,93.3,<25,,<25,14.3,2024
+57845,UME Preparatory Academy,57,Dallas County,10,Richardson,<100,<100,100.0,<25,16.3,<25,24.4,2024
+57846,Legacy Preparatory,57,Dallas County,10,Richardson,59,73,100.0,5,6.8,7,9.6,2024
+57847,Village Tech Schools,57,Dallas County,10,Richardson,<75,<75,100.0,<25,14.8,<25,21.3,2024
+57848,International Leadership of Texas,57,Dallas County,10,Richardson,782,882,100.0,82,9.3,161,18.3,2024
+57850,Pioneer Technology and Arts,57,Dallas County,10,Richardson,106,96,90.6,18,18.8,20,20.8,2024
+57903,Carrollton-Farmers Branch ISD,57,Dallas County,10,Richardson,"1,632","1,561",95.6,219,14.0,397,25.4,2024
+57904,Cedar Hill ISD,57,Dallas County,10,Richardson,<600,<525,86.1,<50,6.9,<75,13.8,2024
+57905,Dallas ISD,57,Dallas County,10,Richardson,"8,487","7,070",83.3,690,9.8,"1,304",18.4,2024
+57906,Desoto ISD,57,Dallas County,10,Richardson,<475,<450,91.0,<25,2.3,<50,8.2,2024
+57907,Duncanville ISD,57,Dallas County,10,Richardson,"1,067",871,81.6,28,3.2,69,7.9,2024
+57909,Garland ISD,57,Dallas County,10,Richardson,"3,898","3,607",92.5,404,11.2,821,22.8,2024
+57910,Grand Prairie ISD,57,Dallas County,10,Richardson,"2,191","1,830",83.5,163,8.9,299,16.3,2024
+57911,Highland Park ISD,57,Dallas County,10,Richardson,<575,<525,91.8,<400,77.8,<450,84.4,2024
+57912,Irving ISD,57,Dallas County,10,Richardson,"2,104","1,979",94.1,132,6.7,317,16.0,2024
+57913,Lancaster ISD,57,Dallas County,10,Richardson,<575,<550,93.9,<25,2.7,<25,4.6,2024
+57914,Mesquite ISD,57,Dallas County,10,Richardson,"2,913","2,650",91.0,116,4.4,355,13.4,2024
+57916,Richardson ISD,57,Dallas County,10,Richardson,"2,583","2,168",83.9,558,25.7,693,32.0,2024
+57919,Sunnyvale ISD,57,Dallas County,10,Richardson,190,141,74.2,65,46.1,93,66.0,2024
+57922,Coppell ISD,57,Dallas County,10,Richardson,"1,061",976,92.0,675,69.2,792,81.1,2024
+58902,Dawson ISD,58,Dawson County,17,Lubbock,<25,<25,100.0,<25,,<25,12.5,2024
+58905,Klondike ISD,58,Dawson County,17,Lubbock,<25,<25,100.0,<25,35.7,<25,71.4,2024
+58906,Lamesa ISD,58,Dawson County,17,Lubbock,<125,<25,18.5,<25,8.7,<25,13.0,2024
+58909,Sands CISD,58,Dawson County,17,Lubbock,<25,<25,13.0,<25,66.7,<25,66.7,2024
+59901,Hereford ISD,59,Deaf Smith County,16,Amarillo,<275,<125,39.0,<25,6.7,<25,10.5,2024
+60902,Cooper ISD,60,Delta County,8,Mt Pleasant,<75,<50,83.3,<25,6.7,<25,15.6,2024
+60914,Fannindel ISD,60,Delta County,8,Mt Pleasant,<25,<25,100.0,<25,22.2,<25,22.2,2024
+61501,University of North Texas,61,Denton County,11,Fort Worth,<25,<150,,<150,99.2,<150,100.0,2024
+61804,Leadership Prep School,61,Denton County,10,Richardson,<100,<100,100.0,<25,23.1,<50,31.9,2024
+61805,Trivium Academy,61,Denton County,11,Fort Worth,<25,<25,100.0,<25,37.5,<25,37.5,2024
+61901,Denton ISD,61,Denton County,11,Fort Worth,"2,314","2,161",93.4,329,15.2,598,27.7,2024
+61902,Lewisville ISD,61,Denton County,11,Fort Worth,"4,141","3,102",74.9,"1,223",39.4,"1,615",52.1,2024
+61903,Pilot Point ISD,61,Denton County,11,Fort Worth,<125,<50,28.2,<25,16.1,<25,35.5,2024
+61905,Krum ISD,61,Denton County,11,Fort Worth,166,141,84.9,22,15.6,40,28.4,2024
+61906,Ponder ISD,61,Denton County,11,Fort Worth,135,123,91.1,16,13.0,41,33.3,2024
+61907,Aubrey ISD,61,Denton County,11,Fort Worth,240,121,50.4,30,24.8,49,40.5,2024
+61908,Sanger ISD,61,Denton County,11,Fort Worth,<200,<175,82.1,<25,3.8,<50,18.6,2024
+61910,Argyle ISD,61,Denton County,11,Fort Worth,342,298,87.1,138,46.3,184,61.7,2024
+61911,Northwest ISD,61,Denton County,11,Fort Worth,"2,042","1,914",93.7,430,22.5,715,37.4,2024
+61912,Lake Dallas ISD,61,Denton County,11,Fort Worth,296,133,44.9,28,21.1,51,38.3,2024
+61914,Little Elm ISD,61,Denton County,11,Fort Worth,607,569,93.7,75,13.2,140,24.6,2024
+62901,Cuero ISD,62,DeWitt County,3,Victoria,<150,<75,37.5,<25,16.7,<25,18.5,2024
+62902,Nordheim ISD,62,DeWitt County,3,Victoria,<25,<25,90.0,<25,11.1,<25,22.2,2024
+62903,Yoakum ISD,62,DeWitt County,3,Victoria,<25,<50,,<25,10.8,<25,13.5,2024
+62904,Yorktown ISD,62,DeWitt County,3,Victoria,<50,<50,86.1,<25,3.2,<25,22.6,2024
+63903,Spur ISD,63,Dickens County,17,Lubbock,<25,<25,100.0,<25,9.1,<25,9.1,2024
+63906,Patton Springs ISD,63,Dickens County,17,Lubbock,<25,<25,100.0,<25,,<25,,2024
+64903,Carrizo Springs CISD,64,Dimmit County,20,San Antonio,111,46,41.4,5,10.9,9,19.6,2024
+65901,Clarendon ISD,65,Donley County,16,Amarillo,<50,<50,75.8,<25,16.0,<25,20.0,2024
+65902,Hedley ISD,65,Donley County,16,Amarillo,<25,<25,100.0,<25,18.2,<25,18.2,2024
+66901,Benavides ISD,66,Duval County,2,Corpus Christi,<50,<25,85.7,<25,,<25,,2024
+66902,San Diego ISD,66,Duval County,2,Corpus Christi,<125,<100,85.2,<25,,<25,5.1,2024
+66903,Freer ISD,66,Duval County,2,Corpus Christi,<50,<50,58.1,<25,8.0,<25,16.0,2024
+67902,Cisco ISD,67,Eastland County,14,Abilene,<75,<75,76.4,<25,20.0,<25,21.8,2024
+67903,Eastland ISD,67,Eastland County,14,Abilene,82,40,48.8,9,22.5,28,70.0,2024
+67904,Gorman ISD,67,Eastland County,14,Abilene,<25,<25,40.0,<25,33.3,<25,50.0,2024
+67908,Rising Star ISD,67,Eastland County,14,Abilene,<25,<25,55.6,<25,,<25,,2024
+68802,Compass Academy Charter School,68,Ector County,18,Midland,<100,<75,94.9,<25,13.5,<25,24.3,2024
+68803,UTPB STEM Academy,68,Ector County,18,Midland,<25,<25,,<25,100.0,<25,100.0,2024
+68901,Ector County ISD,68,Ector County,18,Midland,"<1,950","<1,675",86.3,<75,4.0,<200,11.8,2024
+69901,Rocksprings ISD,69,Edwards County,15,San Angelo,<25,<50,100.0,<25,7.7,<25,15.4,2024
+69902,Nueces Canyon CISD,69,Edwards County,15,San Angelo,<25,<25,91.7,<25,,<25,36.4,2024
+70801,Faith Family Academy,70,Ellis County,10,Richardson,<175,<175,99.4,<25,0.7,<25,3.9,2024
+70901,Avalon ISD,70,Ellis County,10,Richardson,<25,<25,95.7,<25,4.5,<25,9.1,2024
+70903,Ennis ISD,70,Ellis County,10,Richardson,427,202,47.3,25,12.4,46,22.8,2024
+70905,Ferris ISD,70,Ellis County,10,Richardson,202,169,83.7,20,11.8,23,13.6,2024
+70907,Italy ISD,70,Ellis County,10,Richardson,<50,<50,59.2,<25,10.3,<25,10.3,2024
+70908,Midlothian ISD,70,Ellis County,10,Richardson,833,727,87.3,128,17.6,229,31.5,2024
+70909,Milford ISD,70,Ellis County,10,Richardson,<25,<25,56.5,<25,7.7,<25,,2024
+70910,Palmer ISD,70,Ellis County,10,Richardson,<100,<50,59.2,<25,17.8,<25,28.9,2024
+70911,Red Oak ISD,70,Ellis County,10,Richardson,<475,<425,87.8,<25,6.0,<75,15.7,2024
+70912,Waxahachie ISD,70,Ellis County,10,Richardson,938,416,44.3,91,21.9,169,40.6,2024
+70915,Maypearl ISD,70,Ellis County,10,Richardson,<100,<50,41.1,<25,21.6,<25,40.5,2024
+71801,Burnham Wood Charter School,71,El Paso County,19,El Paso,103,116,100.0,5,4.3,13,11.2,2024
+71803,Triumph Public HS-El Paso,71,El Paso County,19,El Paso,<100,<25,8.1,<25,,<25,,2024
+71806,Harmony Public Schools-West Texas,71,El Paso County,19,El Paso,<150,<150,100.0,<50,17.0,<75,35.4,2024
+71901,Clint ISD,71,El Paso County,19,El Paso,844,862,100.0,26,3.0,101,11.7,2024
+71902,El Paso ISD,71,El Paso County,19,El Paso,"3,494","3,540",100.0,321,9.1,694,19.6,2024
+71903,Fabens ISD,71,El Paso County,19,El Paso,<150,<125,93.2,<25,3.2,<25,5.6,2024
+71904,San Elizario ISD,71,El Paso County,19,El Paso,<225,<225,93.2,<25,1.0,<25,4.9,2024
+71905,Ysleta ISD,71,El Paso County,19,El Paso,"<2,825","<2,700",95.1,<125,4.5,<350,12.2,2024
+71906,Anthony ISD,71,El Paso County,19,El Paso,<75,<50,53.3,<25,15.6,<25,21.9,2024
+71907,Canutillo ISD,71,El Paso County,19,El Paso,450,380,84.4,51,13.4,95,25.0,2024
+71908,Tornillo ISD,71,El Paso County,19,El Paso,<100,<50,36.4,<25,,<25,,2024
+71909,Socorro ISD,71,El Paso County,19,El Paso,"<3,700","<3,600",97.3,<175,4.5,<475,13.1,2024
+72801,Premier HS,72,Erath County,11,Fort Worth,"<2,625",<350,13.2,<25,6.7,<50,13.3,2024
+72901,Three Way ISD,72,Erath County,11,Fort Worth,<25,<25,100.0,<25,9.1,<25,18.2,2024
+72902,Dublin ISD,72,Erath County,11,Fort Worth,<100,<50,62.8,<25,4.1,<25,12.2,2024
+72903,Stephenville ISD,72,Erath County,11,Fort Worth,279,133,47.7,36,27.1,59,44.4,2024
+72908,Huckabay ISD,72,Erath County,11,Fort Worth,<25,<25,100.0,<25,13.3,<25,20.0,2024
+72909,Lingleville ISD,72,Erath County,11,Fort Worth,<25,<25,68.2,<25,6.7,<25,26.7,2024
+73901,Chilton ISD,73,Falls County,12,Waco,<50,<50,100.0,<25,2.2,<25,2.2,2024
+73903,Marlin ISD,73,Falls County,12,Waco,<75,<25,3.6,<25,,<25,,2024
+73905,Rosebud-Lott ISD,73,Falls County,12,Waco,<75,<50,84.0,<25,9.5,<25,14.3,2024
+74903,Bonham ISD,74,Fannin County,10,Richardson,113,75,66.4,7,9.3,18,24.0,2024
+74904,Dodd City ISD,74,Fannin County,10,Richardson,<50,<25,60.0,<25,13.3,<25,33.3,2024
+74905,Ector ISD,74,Fannin County,10,Richardson,<25,<25,85.7,<25,8.3,<25,16.7,2024
+74907,Honey Grove ISD,74,Fannin County,8,Mt Pleasant,<50,<25,25.6,<25,18.2,<25,45.5,2024
+74909,Leonard ISD,74,Fannin County,10,Richardson,<75,<50,65.2,<25,11.6,<25,16.3,2024
+74911,Savoy ISD,74,Fannin County,10,Richardson,<25,<25,20.0,<25,,<25,33.3,2024
+74912,Trenton ISD,74,Fannin County,10,Richardson,<50,<50,83.0,<25,12.8,<25,15.4,2024
+74917,Sam Rayburn ISD,74,Fannin County,10,Richardson,<50,<25,47.1,<25,6.3,<25,6.3,2024
+75901,Flatonia ISD,75,Fayette County,13,Austin,<75,<50,90.4,<25,6.4,<25,36.2,2024
+75902,La Grange ISD,75,Fayette County,13,Austin,<150,<100,57.4,<25,17.9,<50,41.0,2024
+75903,Schulenburg ISD,75,Fayette County,13,Austin,<50,<50,61.4,<25,25.9,<25,37.0,2024
+75906,Fayetteville ISD,75,Fayette County,13,Austin,<50,<25,82.1,<25,13.0,<25,30.4,2024
+75908,Round Top-Carmine ISD,75,Fayette County,13,Austin,<25,<25,36.8,<25,14.3,<25,57.1,2024
+76903,Roby CISD,76,Fisher County,14,Abilene,<25,<25,100.0,<25,8.7,<25,26.1,2024
+76904,Rotan ISD,76,Fisher County,14,Abilene,<25,<25,69.6,<25,,<25,,2024
+77901,Floydada Collegiate ISD,77,Floyd County,17,Lubbock,<50,<25,52.4,<25,9.1,<25,13.6,2024
+77902,Lockney ISD,77,Floyd County,17,Lubbock,<50,<25,45.2,<25,,<25,7.1,2024
+78901,Crowell ISD,78,Foard County,9,Wichita Falls,<25,<25,64.3,<25,11.1,<25,22.2,2024
+79901,Lamar CISD,79,Fort Bend County,4,Houston,"2,874","2,696",93.8,549,20.4,933,34.6,2024
+79906,Needville ISD,79,Fort Bend County,4,Houston,<275,<225,85.1,<50,12.1,<75,27.4,2024
+79907,Fort Bend ISD,79,Fort Bend County,4,Houston,"6,273","5,609",89.4,"1,795",32.0,"2,510",44.7,2024
+79910,Stafford MSD,79,Fort Bend County,4,Houston,247,239,96.8,24,10.0,50,20.9,2024
+80901,Mount Vernon ISD,80,Franklin County,8,Mt Pleasant,<125,<50,40.8,<25,28.6,<25,42.9,2024
+81902,Fairfield ISD,81,Freestone County,12,Waco,<125,<125,92.6,<25,8.0,<25,12.0,2024
+81904,Teague ISD,81,Freestone County,12,Waco,<125,<25,13.8,<25,31.3,<25,43.8,2024
+81905,Wortham ISD,81,Freestone County,12,Waco,<50,<25,62.9,<25,13.6,<25,13.6,2024
+82902,Dilley ISD,82,Frio County,20,San Antonio,<75,<25,33.3,<25,13.6,<25,9.1,2024
+82903,Pearsall ISD,82,Frio County,20,San Antonio,<150,<25,17.3,<25,8.3,<25,12.5,2024
+83901,Seagraves ISD,83,Gaines County,17,Lubbock,<50,<25,63.2,<25,4.2,<25,12.5,2024
+83903,Seminole ISD,83,Gaines County,17,Lubbock,<225,<75,28.8,<25,18.3,<50,51.7,2024
+84802,Odyssey Academy Inc,84,Galveston County,4,Houston,<50,<50,84.4,<25,18.5,<25,29.6,2024
+84901,Dickinson ISD,84,Galveston County,4,Houston,910,718,78.9,63,8.8,134,18.7,2024
+84902,Galveston ISD,84,Galveston County,4,Houston,473,144,30.4,40,27.8,50,34.7,2024
+84903,High Island ISD,84,Galveston County,5,Beaumont,<25,<25,76.2,<25,6.3,<25,12.5,2024
+84906,Texas City ISD,84,Galveston County,4,Houston,516,464,89.9,16,3.4,43,9.3,2024
+84908,Hitchcock ISD,84,Galveston County,4,Houston,<100,<50,40.0,<25,,<25,13.9,2024
+84909,Santa Fe ISD,84,Galveston County,4,Houston,<350,<150,41.2,<25,9.4,<50,29.7,2024
+84910,Clear Creek ISD,84,Galveston County,4,Houston,"3,075","2,766",90.0,712,25.7,"1,162",42.0,2024
+84911,Friendswood ISD,84,Galveston County,4,Houston,438,416,95.0,154,37.0,237,57.0,2024
+85902,Post ISD,85,Garza County,17,Lubbock,<50,<25,7.3,<25,,<25,33.3,2024
+85903,Southland ISD,85,Garza County,17,Lubbock,<25,<25,100.0,<25,,<25,,2024
+86901,Fredericksburg ISD,86,Gillespie County,13,Austin,<275,<175,67.3,<50,24.3,<100,45.6,2024
+86902,Harper ISD,86,Gillespie County,15,San Angelo,45,27,60.0,8,29.6,12,44.4,2024
+87901,Glasscock County ISD,87,Glasscock County,18,Midland,<25,<25,100.0,<25,19.0,<25,57.1,2024
+88902,Goliad ISD,88,Goliad County,3,Victoria,<100,<75,64.3,<25,4.8,<25,23.8,2024
+89901,Gonzales ISD,89,Gonzales County,13,Austin,<225,<75,36.8,<25,6.8,<25,12.2,2024
+89903,Nixon-Smiley CISD,89,Gonzales County,13,Austin,<75,<50,54.2,<25,18.8,<25,15.6,2024
+89905,Waelder ISD,89,Gonzales County,13,Austin,<25,<25,100.0,<25,11.1,<25,11.1,2024
+90902,Lefors ISD,90,Gray County,16,Amarillo,<25,<25,92.3,<25,,<25,,2024
+90903,McLean ISD,90,Gray County,16,Amarillo,<25,<25,93.3,<25,7.1,<25,14.3,2024
+90904,Pampa ISD,90,Gray County,16,Amarillo,<250,<200,77.2,<25,9.1,<50,14.0,2024
+91901,Bells ISD,91,Grayson County,10,Richardson,<75,<75,100.0,<25,16.4,<25,25.4,2024
+91902,Collinsville ISD,91,Grayson County,10,Richardson,<50,<25,77.4,<25,12.5,<25,16.7,2024
+91903,Denison ISD,91,Grayson County,10,Richardson,<350,<175,53.2,<50,20.7,<75,33.3,2024
+91905,Howe ISD,91,Grayson County,10,Richardson,<100,<50,54.7,<25,22.0,<25,29.3,2024
+91906,Sherman ISD,91,Grayson County,10,Richardson,537,427,79.5,42,9.8,90,21.1,2024
+91907,Tioga ISD,91,Grayson County,10,Richardson,<75,<50,72.5,<25,2.7,<25,16.2,2024
+91908,Van Alstyne ISD,91,Grayson County,10,Richardson,142,93,65.5,37,39.8,47,50.5,2024
+91909,Whitesboro ISD,91,Grayson County,10,Richardson,89,44,49.4,10,22.7,18,40.9,2024
+91910,Whitewright ISD,91,Grayson County,10,Richardson,56,44,78.6,13,29.5,16,36.4,2024
+91913,Pottsboro ISD,91,Grayson County,10,Richardson,102,54,52.9,13,24.1,18,33.3,2024
+91914,S and S CISD,91,Grayson County,10,Richardson,<75,<50,46.5,<25,24.2,<25,39.4,2024
+91917,Gunter ISD,91,Grayson County,10,Richardson,<100,<100,98.7,<25,14.3,<50,35.1,2024
+91918,Tom Bean ISD,91,Grayson County,10,Richardson,<50,<25,18.2,<25,12.5,<25,37.5,2024
+92801,East Texas Charter Schools,92,Gregg County,7,Kilgore,<50,<25,2.4,<25,,<25,,2024
+92901,Gladewater ISD,92,Gregg County,7,Kilgore,<125,<25,18.3,<25,36.8,<25,42.1,2024
+92902,Kilgore ISD,92,Gregg County,7,Kilgore,260,144,55.4,25,17.4,34,23.6,2024
+92903,Longview ISD,92,Gregg County,7,Kilgore,<650,<275,40.9,<75,19.8,<75,27.6,2024
+92904,Pine Tree ISD,92,Gregg County,7,Kilgore,<300,<275,91.8,<25,6.7,<50,16.4,2024
+92906,Sabine ISD,92,Gregg County,7,Kilgore,<125,<50,38.0,<25,34.2,<25,52.6,2024
+92907,Spring Hill ISD,92,Gregg County,7,Kilgore,<150,<100,65.5,<50,35.5,<50,40.9,2024
+92908,White Oak ISD,92,Gregg County,7,Kilgore,<100,<50,55.8,<25,30.2,<25,37.2,2024
+93901,Anderson-Shiro CISD,93,Grimes County,6,Huntsville,<75,<50,75.4,<25,8.2,<25,28.6,2024
+93903,Iola ISD,93,Grimes County,6,Huntsville,<50,<50,76.5,<25,15.4,<25,46.2,2024
+93904,Navasota ISD,93,Grimes County,6,Huntsville,236,191,80.9,6,3.1,16,8.4,2024
+93905,Richards ISD,93,Grimes County,6,Huntsville,<25,<25,100.0,<25,,<25,,2024
+94901,Seguin ISD,94,Guadalupe County,20,San Antonio,<525,<200,38.5,<25,6.0,<50,20.1,2024
+94902,Schertz-Cibolo-U City ISD,94,Guadalupe County,20,San Antonio,"1,363","1,127",82.7,167,14.8,360,31.9,2024
+94903,Navarro ISD,94,Guadalupe County,20,San Antonio,144,62,43.1,18,29.0,37,59.7,2024
+94904,Marion ISD,94,Guadalupe County,20,San Antonio,<125,<125,100.0,<25,4.3,<50,25.2,2024
+95901,Abernathy ISD,95,Hale County,17,Lubbock,<75,<75,100.0,<25,11.7,<25,21.7,2024
+95902,Cotton Center ISD,95,Hale County,17,Lubbock,<25,<25,40.0,<25,,<25,,2024
+95903,Hale Center ISD,95,Hale County,17,Lubbock,<50,<50,88.6,<25,3.2,<25,3.2,2024
+95904,Petersburg ISD,95,Hale County,17,Lubbock,<25,<25,72.2,<25,7.7,<25,7.7,2024
+95905,Plainview ISD,95,Hale County,17,Lubbock,<350,<300,84.5,<25,6.6,<50,13.5,2024
+96904,Memphis ISD,96,Hall County,16,Amarillo,<50,<25,23.5,<25,,<25,12.5,2024
+96905,Turkey-Quitaque ISD,96,Hall County,16,Amarillo,21,15,71.4,5,33.3,5,33.3,2024
+97902,Hamilton ISD,97,Hamilton County,12,Waco,<75,<50,72.7,<25,20.8,<25,35.4,2024
+97903,Hico ISD,97,Hamilton County,12,Waco,<50,<25,50.0,<25,30.0,<25,30.0,2024
+98901,Gruver ISD,98,Hansford County,16,Amarillo,<50,<50,85.4,<25,24.4,<25,36.6,2024
+98903,Pringle-Morse CISD,98,Hansford County,16,Amarillo,<25,<25,20.0,<25,,<25,,2024
+98904,Spearman ISD,98,Hansford County,16,Amarillo,<75,<75,100.0,<25,19.6,<25,21.4,2024
+99902,Chillicothe ISD,99,Hardeman County,9,Wichita Falls,<25,<25,26.3,<25,,<25,,2024
+99903,Quanah ISD,99,Hardeman County,9,Wichita Falls,<50,<25,33.3,<25,20.0,<25,20.0,2024
+100903,Kountze ISD,100,Hardin County,5,Beaumont,<75,<75,93.0,<25,6.1,<25,19.7,2024
+100904,Silsbee ISD,100,Hardin County,5,Beaumont,185,99,53.5,15,15.2,29,29.3,2024
+100905,Hardin-Jefferson ISD,100,Hardin County,5,Beaumont,<175,<100,52.5,<25,23.5,<50,47.1,2024
+100907,Lumberton ISD,100,Hardin County,5,Beaumont,266,206,77.4,25,12.1,55,26.7,2024
+100908,West Hardin County CISD,100,Hardin County,5,Beaumont,<50,<25,16.7,<25,33.3,<25,16.7,2024
+101803,Aristoi Classical Academy,101,Harris County,4,Houston,<50,<75,100.0,<25,32.1,<50,54.7,2024
+101804,George I Sanchez Charter,101,Harris County,4,Houston,<125,<25,14.6,<25,5.6,<25,11.1,2024
+101806,Raul Yzaguirre Schools for Success,101,Harris County,4,Houston,<75,<75,100.0,<25,3.3,<25,8.3,2024
+101821,Houston Heights HS,101,Harris County,4,Houston,<75,<50,37.8,<25,,<25,,2024
+101828,Houston Gateway Academy Inc,101,Harris County,4,Houston,<100,<100,98.9,<25,11.4,<50,38.6,2024
+101837,Calvin Nelms Charter Schools,101,Harris County,4,Houston,<50,<50,100.0,<25,7.7,<25,17.9,2024
+101838,Southwest Public Schools,101,Harris County,4,Houston,<100,<125,100.0,<25,2.8,<25,11.1,2024
+101845,YES Prep Public Schools Inc,101,Harris County,4,Houston,"<1,450","<1,525",100.0,<150,9.6,<450,28.1,2024
+101846,Harmony Public Schools-Houston,101,Harris County,4,Houston,<300,<300,97.3,<50,15.9,<125,36.0,2024
+101858,Harmony Public Schools-Houston,101,Harris County,4,Houston,<225,<250,100.0,<75,29.5,<125,47.6,2024
+101862,Harmony Public Schools-Houston,101,Harris County,4,Houston,<325,<325,100.0,<125,39.2,<200,58.5,2024
+101868,The Pro-Vision Academy,101,Harris County,4,Houston,<25,<25,91.3,<25,4.8,<25,4.8,2024
+101870,Beta Academy,101,Harris County,4,Houston,<50,<50,100.0,<25,20.0,<25,40.0,2024
+101874,Legacy School of Sport Sciences,101,Harris County,4,Houston,<75,<25,20.8,<25,6.7,<25,13.3,2024
+101902,Aldine ISD,101,Harris County,4,Houston,"3,844","3,394",88.3,110,3.2,297,8.8,2024
+101903,Alief ISD,101,Harris County,4,Houston,"2,637","2,291",86.9,185,8.1,446,19.5,2024
+101905,Channelview ISD,101,Harris County,4,Houston,<725,<625,85.7,<25,2.5,<75,9.1,2024
+101906,Crosby ISD,101,Harris County,4,Houston,<475,<450,94.1,<50,6.3,<100,17.0,2024
+101907,Cypress-Fairbanks ISD,101,Harris County,4,Houston,"8,794","8,452",96.1,"1,640",19.4,"2,901",34.3,2024
+101908,Deer Park ISD,101,Harris County,4,Houston,967,385,39.8,79,20.5,182,47.3,2024
+101910,Galena Park ISD,101,Harris County,4,Houston,"1,684",912,54.2,63,6.9,101,11.1,2024
+101911,Goose Creek CISD,101,Harris County,4,Houston,"1,644","1,378",83.8,80,5.8,220,16.0,2024
+101912,Houston ISD,101,Harris County,4,Houston,"11,447","10,157",88.7,"1,403",13.8,"2,303",22.7,2024
+101913,Humble ISD,101,Harris County,4,Houston,"3,610","3,078",85.3,669,21.7,910,29.6,2024
+101914,Katy ISD,101,Harris County,4,Houston,"6,745","6,155",91.3,"2,228",36.2,"3,195",51.9,2024
+101915,Klein ISD,101,Harris County,4,Houston,"4,117","3,789",92.0,672,17.7,"1,198",31.6,2024
+101916,La Porte ISD,101,Harris County,4,Houston,<525,<425,83.6,<50,6.2,<75,14.6,2024
+101917,Pasadena ISD,101,Harris County,4,Houston,"3,526","3,261",92.5,250,7.7,580,17.8,2024
+101919,Spring ISD,101,Harris County,4,Houston,"<2,050","<1,675",81.2,<75,3.9,<175,9.2,2024
+101920,Spring Branch ISD,101,Harris County,4,Houston,"2,274","2,235",98.3,733,32.8,"1,029",46.0,2024
+101921,Tomball ISD,101,Harris County,4,Houston,"1,475","1,424",96.5,466,32.7,766,53.8,2024
+101924,Sheldon ISD,101,Harris County,4,Houston,<875,<675,76.2,<25,2.3,<50,7.1,2024
+101925,Huffman ISD,101,Harris County,4,Houston,<275,<125,42.3,<50,24.3,<50,40.9,2024
+102902,Marshall ISD,102,Harrison County,7,Kilgore,<325,<225,64.3,<25,7.5,<25,12.0,2024
+102903,Waskom ISD,102,Harrison County,7,Kilgore,<75,<50,71.9,<25,17.4,<25,21.7,2024
+102904,Hallsville ISD,102,Harrison County,7,Kilgore,"2,541",336,13.2,86,25.6,135,40.2,2024
+102905,Harleton ISD,102,Harrison County,7,Kilgore,<75,<50,52.6,<25,20.0,<25,23.3,2024
+102906,Elysian Fields ISD,102,Harrison County,7,Kilgore,<75,<75,93.5,<25,20.7,<25,27.6,2024
+103901,Channing ISD,103,Hartley County,16,Amarillo,<25,<25,100.0,<25,25.0,<25,25.0,2024
+103902,Hartley ISD,103,Hartley County,16,Amarillo,<25,<25,31.3,<25,20.0,<25,40.0,2024
+104901,Haskell CISD,104,Haskell County,14,Abilene,<50,<50,81.3,<25,15.4,<25,19.2,2024
+104903,Rule ISD,104,Haskell County,14,Abilene,<25,<25,100.0,<25,16.7,<25,16.7,2024
+104907,Paint Creek ISD,104,Haskell County,14,Abilene,<25,<25,100.0,<25,,<25,,2024
+105801,Katherine Anne Porter School,105,Hays County,13,Austin,<50,<25,33.3,<25,66.7,<25,66.7,2024
+105902,San Marcos CISD,105,Hays County,13,Austin,577,478,82.8,45,9.4,75,15.7,2024
+105904,Dripping Springs ISD,105,Hays County,13,Austin,560,461,82.3,195,42.3,284,61.6,2024
+105905,Wimberley ISD,105,Hays County,13,Austin,209,115,55.0,49,42.6,73,63.5,2024
+105906,Hays CISD,105,Hays County,13,Austin,"1,771","1,538",86.8,154,10.0,325,21.1,2024
+106901,Canadian ISD,106,Hemphill County,16,Amarillo,<75,<75,100.0,<50,35.6,<50,47.9,2024
+107901,Athens ISD,107,Henderson County,10,Richardson,<200,<150,69.9,<25,4.7,<25,4.7,2024
+107902,Brownsboro ISD,107,Henderson County,7,Kilgore,182,93,51.1,12,12.9,20,21.5,2024
+107904,Cross Roads ISD,107,Henderson County,7,Kilgore,<75,<25,13.2,<25,,<25,14.3,2024
+107905,Eustace ISD,107,Henderson County,7,Kilgore,<100,<50,40.2,<25,7.7,<25,20.5,2024
+107906,Malakoff ISD,107,Henderson County,7,Kilgore,<100,<100,95.8,<25,2.2,<25,8.8,2024
+107907,Trinidad ISD,107,Henderson County,7,Kilgore,<25,<25,100.0,<25,,<25,,2024
+107910,LaPoyner ISD,107,Henderson County,7,Kilgore,<50,<50,78.0,<25,15.6,<25,25.0,2024
+108804,Triumph Public HS-Rio Grande,108,Hidalgo County,1,Edinburg,<225,<25,8.8,<25,5.6,<25,5.6,2024
+108807,IDEA Public Schools,108,Hidalgo County,1,Edinburg,"2,291","2,629",100.0,407,15.5,557,21.2,2024
+108808,Vanguard Academy,108,Hidalgo County,1,Edinburg,215,177,82.3,21,11.9,30,16.9,2024
+108902,Donna ISD,108,Hidalgo County,1,Edinburg,<875,<725,83.5,<25,3.2,<50,4.5,2024
+108903,Edcouch-Elsa ISD,108,Hidalgo County,1,Edinburg,<350,<225,66.8,<25,4.1,<25,5.9,2024
+108904,Edinburg CISD,108,Hidalgo County,1,Edinburg,"2,419",916,37.9,129,14.1,216,23.6,2024
+108905,Hidalgo ISD,108,Hidalgo County,1,Edinburg,<250,<250,97.6,<25,2.1,<25,5.4,2024
+108906,McAllen ISD,108,Hidalgo County,1,Edinburg,"1,617","1,519",93.9,163,10.7,311,20.5,2024
+108907,Mercedes ISD,108,Hidalgo County,1,Edinburg,331,238,71.9,5,2.1,12,5.0,2024
+108908,Mission CISD,108,Hidalgo County,1,Edinburg,"1,025",873,85.2,41,4.7,114,13.1,2024
+108909,Pharr-San Juan-Alamo ISD,108,Hidalgo County,1,Edinburg,"2,276","1,938",85.1,72,3.7,207,10.7,2024
+108910,Progreso ISD,108,Hidalgo County,1,Edinburg,<150,<125,84.8,<25,4.7,<25,2.8,2024
+108911,Sharyland ISD,108,Hidalgo County,1,Edinburg,877,793,90.4,83,10.5,186,23.5,2024
+108912,La Joya ISD,108,Hidalgo County,1,Edinburg,"1,869","1,434",76.7,98,6.8,120,8.4,2024
+108913,Weslaco ISD,108,Hidalgo County,1,Edinburg,"<1,250",<825,67.0,<75,7.8,<100,9.5,2024
+108914,La Villa ISD,108,Hidalgo County,1,Edinburg,<50,<50,89.5,<25,,<25,2.9,2024
+108915,Monte Alto ISD,108,Hidalgo County,1,Edinburg,<75,<75,100.0,<25,,<25,,2024
+108916,Valley View ISD,108,Hidalgo County,1,Edinburg,302,172,57.0,20,11.6,25,14.5,2024
+109901,Abbott ISD,109,Hill County,12,Waco,<25,<25,30.0,<25,16.7,<25,33.3,2024
+109902,Bynum ISD,109,Hill County,12,Waco,<25,<25,31.3,<25,20.0,<25,20.0,2024
+109903,Covington ISD,109,Hill County,12,Waco,<25,<25,82.4,<25,7.1,<25,14.3,2024
+109904,Hillsboro ISD,109,Hill County,12,Waco,130,35,26.9,8,22.9,15,42.9,2024
+109905,Hubbard ISD,109,Hill County,12,Waco,<50,<25,38.7,<25,33.3,<25,41.7,2024
+109907,Itasca ISD,109,Hill County,12,Waco,<50,<50,93.2,<25,4.9,<25,12.2,2024
+109911,Whitney ISD,109,Hill County,12,Waco,<125,<75,55.6,<25,18.3,<50,41.7,2024
+109912,Aquilla ISD,109,Hill County,12,Waco,<50,<25,74.1,<25,5.0,<25,20.0,2024
+109913,Blum ISD,109,Hill County,12,Waco,<50,<50,100.0,<25,14.8,<25,25.9,2024
+109914,Penelope ISD,109,Hill County,12,Waco,<25,<25,58.3,<25,14.3,<25,21.4,2024
+110902,Levelland ISD,110,Hockley County,17,Lubbock,<175,<125,79.5,<25,10.0,<25,11.7,2024
+110905,Ropes ISD,110,Hockley County,17,Lubbock,<50,<25,58.5,<25,33.3,<25,70.8,2024
+110906,Smyer ISD,110,Hockley County,17,Lubbock,<50,<50,100.0,<25,21.1,<25,28.9,2024
+110907,Sundown ISD,110,Hockley County,17,Lubbock,<50,<50,83.8,<25,22.6,<25,45.2,2024
+110908,Whitharral ISD,110,Hockley County,17,Lubbock,<25,<25,80.0,<25,,<25,12.5,2024
+111901,Granbury ISD,111,Hood County,11,Fort Worth,<525,<200,36.3,<50,20.8,<100,41.5,2024
+111902,Lipan ISD,111,Hood County,11,Fort Worth,<50,<25,20.0,<25,16.7,<25,50.0,2024
+111903,Tolar ISD,111,Hood County,11,Fort Worth,71,41,57.7,8,19.5,14,34.1,2024
+112901,Sulphur Springs ISD,112,Hopkins County,8,Mt Pleasant,277,132,47.7,35,26.5,46,34.8,2024
+112905,Cumby Collegiate ISD,112,Hopkins County,8,Mt Pleasant,<25,<25,90.9,<25,5.0,<25,20.0,2024
+112906,North Hopkins ISD,112,Hopkins County,8,Mt Pleasant,<50,<50,83.3,<25,10.0,<25,13.3,2024
+112907,Miller Grove ISD,112,Hopkins County,8,Mt Pleasant,<50,<25,60.0,<25,13.3,<25,26.7,2024
+112908,Como-Pickton CISD,112,Hopkins County,8,Mt Pleasant,<50,<25,32.6,<25,21.4,<25,42.9,2024
+112909,Saltillo ISD,112,Hopkins County,8,Mt Pleasant,<25,<25,81.3,<25,7.7,<25,23.1,2024
+112910,Sulphur Bluff ISD,112,Hopkins County,8,Mt Pleasant,<50,<25,48.1,<25,7.7,<25,30.8,2024
+113901,Crockett ISD,113,Houston County,6,Huntsville,<100,<50,51.1,<25,8.5,<25,17.0,2024
+113902,Grapeland ISD,113,Houston County,6,Huntsville,<50,<25,62.1,<25,,<25,5.6,2024
+113903,Lovelady ISD,113,Houston County,6,Huntsville,<50,<50,63.3,<25,16.1,<25,29.0,2024
+113905,Latexo ISD,113,Houston County,6,Huntsville,<50,<50,100.0,<25,17.6,<25,32.4,2024
+113906,Kennard ISD,113,Houston County,6,Huntsville,<25,<25,41.7,<25,40.0,<25,60.0,2024
+114901,Big Spring ISD,114,Howard County,18,Midland,247,50,20.2,13,26.0,17,34.0,2024
+114902,Coahoma ISD,114,Howard County,18,Midland,<25,<25,,<25,,<25,20.0,2024
+114904,Forsan ISD,114,Howard County,18,Midland,<75,<50,60.3,<25,23.7,<25,28.9,2024
+115901,Ft Hancock ISD,115,Hudspeth County,19,El Paso,<50,<50,93.1,<25,3.7,<25,18.5,2024
+115902,Sierra Blanca ISD,115,Hudspeth County,19,El Paso,<25,<25,30.0,<25,,<25,,2024
+115903,Dell City ISD,115,Hudspeth County,19,El Paso,<25,<25,100.0,<25,,<25,,2024
+116901,Caddo Mills ISD,116,Hunt County,10,Richardson,146,148,100.0,22,14.9,40,27.0,2024
+116902,Celeste ISD,116,Hunt County,10,Richardson,<50,<25,27.9,<25,33.3,<25,41.7,2024
+116903,Commerce ISD,116,Hunt County,10,Richardson,<125,<75,40.7,<25,12.0,<25,22.0,2024
+116905,Greenville ISD,116,Hunt County,10,Richardson,<375,<300,78.4,<25,6.6,<50,14.0,2024
+116906,Lone Oak ISD,116,Hunt County,10,Richardson,69,35,50.7,9,25.7,13,37.1,2024
+116908,Quinlan ISD,116,Hunt County,10,Richardson,<200,<100,45.6,<25,5.7,<25,21.6,2024
+116909,Wolfe City ISD,116,Hunt County,10,Richardson,<75,<50,60.8,<25,25.8,<25,35.5,2024
+116910,Campbell ISD,116,Hunt County,10,Richardson,<25,<25,26.7,<25,25.0,<25,25.0,2024
+116915,Bland ISD,116,Hunt County,10,Richardson,<75,<50,56.0,<25,17.9,<25,42.9,2024
+116916,Boles ISD,116,Hunt County,10,Richardson,<50,<50,95.7,<25,8.9,<25,11.1,2024
+117901,Borger ISD,117,Hutchinson County,16,Amarillo,<200,<175,86.6,<25,6.8,<25,12.3,2024
+117903,Sanford-Fritch ISD,117,Hutchinson County,16,Amarillo,<75,<50,84.0,<25,9.5,<25,14.3,2024
+117904,Plemons-Stinnett-Phillips CISD,117,Hutchinson County,16,Amarillo,<50,<25,50.0,<25,4.8,<25,14.3,2024
+118902,Irion County ISD,118,Irion County,15,San Angelo,<25,<25,100.0,<25,13.0,<25,26.1,2024
+119901,Bryson ISD,119,Jack County,9,Wichita Falls,<25,<25,60.0,<25,11.1,<25,33.3,2024
+119902,Jacksboro ISD,119,Jack County,9,Wichita Falls,82,57,69.5,15,26.3,23,40.4,2024
+119903,Perrin-Whitt CISD,119,Jack County,9,Wichita Falls,<50,<50,96.2,<25,,<25,,2024
+120901,Edna ISD,120,Jackson County,3,Victoria,<125,<50,45.4,<25,8.2,<25,28.6,2024
+120902,Ganado ISD,120,Jackson County,3,Victoria,<50,<25,31.3,<25,20.0,<25,40.0,2024
+120905,Industrial ISD,120,Jackson County,3,Victoria,<100,<100,100.0,<25,18.8,<50,48.2,2024
+121902,Brookeland ISD,121,Jasper County,5,Beaumont,<25,<25,55.6,<25,,<25,10.0,2024
+121903,Buna ISD,121,Jasper County,5,Beaumont,88,79,89.8,5,6.3,19,24.1,2024
+121904,Jasper ISD,121,Jasper County,5,Beaumont,<175,<125,67.1,<25,10.6,<25,18.3,2024
+121905,Kirbyville CISD,121,Jasper County,5,Beaumont,<100,<75,79.8,<25,7.0,<25,14.1,2024
+121906,Evadale ISD,121,Jasper County,5,Beaumont,<50,<50,83.3,<25,,<25,12.0,2024
+122901,Ft Davis ISD,122,Jeff Davis County,18,Midland,<25,<25,88.2,<25,13.3,<25,20.0,2024
+123503,Texas Academy of Leadership in the,123,Jefferson County,5,Beaumont,<25,<25,,<25,83.3,<25,91.7,2024
+123803,Tekoa Academy of Accelerated,123,Jefferson County,5,Beaumont,<25,<25,7.7,<25,,<25,,2024
+123807,Bob Hope School,123,Jefferson County,5,Beaumont,<125,<125,100.0,<25,2.5,<25,15.6,2024
+123905,Nederland ISD,123,Jefferson County,5,Beaumont,<350,<225,64.5,<50,23.2,<100,40.8,2024
+123907,Port Arthur ISD,123,Jefferson County,5,Beaumont,<450,<175,36.3,<25,4.5,<25,9.0,2024
+123908,Port Neches-Groves ISD,123,Jefferson County,5,Beaumont,<375,<250,62.0,<50,12.6,<75,30.9,2024
+123910,Beaumont ISD,123,Jefferson County,5,Beaumont,"1,023",699,68.3,55,7.9,104,14.9,2024
+123913,Sabine Pass ISD,123,Jefferson County,5,Beaumont,<50,<50,96.2,<25,16.0,<25,24.0,2024
+123914,Hamshire-Fannett ISD,123,Jefferson County,5,Beaumont,<150,<150,100.0,<25,2.8,<25,9.8,2024
+124901,Jim Hogg County ISD,124,Jim Hogg County,1,Edinburg,<100,<100,95.1,<25,1.3,<25,6.4,2024
+125901,Alice ISD,125,Jim Wells County,2,Corpus Christi,<300,<50,12.4,<25,16.7,<25,16.7,2024
+125902,Ben Bolt-Palito Blanco ISD,125,Jim Wells County,2,Corpus Christi,<50,<25,2.8,<25,,<25,,2024
+125903,Orange Grove ISD,125,Jim Wells County,2,Corpus Christi,<150,<125,78.7,<25,13.0,<25,16.0,2024
+125905,Premont ISD,125,Jim Wells County,2,Corpus Christi,<50,<50,84.8,<25,7.7,<25,7.7,2024
+126901,Alvarado ISD,126,Johnson County,11,Fort Worth,275,262,95.3,18,6.9,52,19.8,2024
+126902,Burleson ISD,126,Johnson County,11,Fort Worth,"1,017",737,72.5,134,18.2,156,21.2,2024
+126903,Cleburne ISD,126,Johnson County,11,Fort Worth,475,156,32.8,27,17.3,42,26.9,2024
+126904,Grandview ISD,126,Johnson County,11,Fort Worth,117,72,61.5,16,22.2,29,40.3,2024
+126905,Joshua ISD,126,Johnson County,11,Fort Worth,<450,<400,88.2,<50,11.8,<100,23.6,2024
+126906,Keene ISD,126,Johnson County,11,Fort Worth,<100,<50,43.8,<25,10.3,<25,33.3,2024
+126907,Rio Vista ISD,126,Johnson County,11,Fort Worth,<50,<25,47.8,<25,,<25,4.5,2024
+126908,Venus ISD,126,Johnson County,11,Fort Worth,<175,<75,35.9,<25,3.6,<25,21.4,2024
+126911,Godley ISD,126,Johnson County,11,Fort Worth,<225,<175,80.2,<25,10.6,<50,21.8,2024
+127901,Anson ISD,127,Jones County,14,Abilene,<75,<50,65.4,<25,20.6,<25,26.5,2024
+127903,Hamlin Collegiate ISD,127,Jones County,14,Abilene,<50,<50,96.2,<25,4.0,<25,4.0,2024
+127904,Hawley ISD,127,Jones County,14,Abilene,<75,<75,94.9,<25,7.1,<25,10.7,2024
+127905,Lueders-Avoca ISD,127,Jones County,14,Abilene,<25,<25,37.5,<25,,<25,,2024
+127906,Stamford ISD,127,Jones County,14,Abilene,<50,<25,63.2,<25,8.3,<25,16.7,2024
+128901,Karnes City ISD,128,Karnes County,20,San Antonio,<100,<25,16.0,<25,16.7,<25,33.3,2024
+128902,Kenedy ISD,128,Karnes County,3,Victoria,<75,<75,88.5,<25,1.9,<25,3.7,2024
+128903,Runge ISD,128,Karnes County,3,Victoria,<25,<25,76.9,<25,10.0,<25,20.0,2024
+128904,Falls City ISD,128,Karnes County,20,San Antonio,<50,<50,96.9,<25,35.5,<25,64.5,2024
+129901,Crandall ISD,129,Kaufman County,10,Richardson,<450,<400,85.6,<25,3.7,<50,9.6,2024
+129902,Forney ISD,129,Kaufman County,10,Richardson,"1,094",572,52.3,108,18.9,172,30.1,2024
+129903,Kaufman ISD,129,Kaufman County,10,Richardson,<350,<325,88.1,<25,5.3,<50,11.2,2024
+129904,Kemp ISD,129,Kaufman County,10,Richardson,<150,<25,12.0,<25,6.3,<25,18.8,2024
+129905,Mabank ISD,129,Kaufman County,10,Richardson,271,132,48.7,21,15.9,44,33.3,2024
+129906,Terrell ISD,129,Kaufman County,10,Richardson,<400,<325,80.6,<25,2.3,<25,5.9,2024
+129910,Scurry-Rosser ISD,129,Kaufman County,10,Richardson,<100,<100,92.9,<25,6.6,<25,15.4,2024
+130901,Boerne ISD,130,Kendall County,20,San Antonio,827,763,92.3,249,32.6,389,51.0,2024
+130902,Comfort ISD,130,Kendall County,20,San Antonio,92,54,58.7,11,20.4,16,29.6,2024
+132902,Jayton-Girard ISD,132,Kent County,17,Lubbock,<25,<25,100.0,<25,20.0,<25,20.0,2024
+133901,Center Point ISD,133,Kerr County,20,San Antonio,<50,<50,78.0,<25,,<25,15.6,2024
+133903,Kerrville ISD,133,Kerr County,20,San Antonio,360,306,85.0,67,21.9,110,35.9,2024
+133904,Ingram ISD,133,Kerr County,20,San Antonio,<100,<100,100.0,<25,16.8,<25,18.9,2024
+134901,Junction ISD,134,Kimble County,15,San Angelo,<25,<25,58.3,<25,14.3,<25,28.6,2024
+135001,Guthrie CSD,135,King County,17,Lubbock,<25,<25,100.0,<25,14.3,<25,28.6,2024
+136901,Brackett ISD,136,Kinney County,20,San Antonio,<50,<50,100.0,<25,9.5,<25,28.6,2024
+137901,Kingsville ISD,137,Kleberg County,2,Corpus Christi,<200,<125,60.7,<25,2.5,<25,9.2,2024
+137903,Riviera ISD,137,Kleberg County,2,Corpus Christi,<75,<50,80.0,<25,,<25,17.5,2024
+137904,Santa Gertrudis ISD,137,Kleberg County,2,Corpus Christi,89,61,68.5,13,21.3,21,34.4,2024
+138902,Knox City-O'Brien CISD,138,Knox County,9,Wichita Falls,<25,<25,60.0,<25,33.3,<25,33.3,2024
+138903,Munday CISD,138,Knox County,9,Wichita Falls,<25,<25,85.0,<25,23.5,<25,23.5,2024
+139905,Chisum ISD,139,Lamar County,8,Mt Pleasant,<75,<50,45.8,<25,21.2,<25,30.3,2024
+139909,Paris ISD,139,Lamar County,8,Mt Pleasant,<275,<125,44.5,<50,27.4,<50,38.1,2024
+139911,North Lamar ISD,139,Lamar County,8,Mt Pleasant,<150,<75,47.6,<25,33.3,<50,36.2,2024
+139912,Prairiland ISD,139,Lamar County,8,Mt Pleasant,<75,<25,40.0,<25,33.3,<25,33.3,2024
+140901,Amherst ISD,140,Lamb County,17,Lubbock,<25,<25,66.7,<25,,<25,,2024
+140904,Littlefield ISD,140,Lamb County,17,Lubbock,<100,<100,88.4,<25,2.6,<25,9.2,2024
+140905,Olton ISD,140,Lamb County,17,Lubbock,<50,<50,89.1,<25,4.9,<25,7.3,2024
+140907,Springlake-Earth ISD,140,Lamb County,17,Lubbock,<50,<25,37.0,<25,10.0,<25,10.0,2024
+140908,Sudan ISD,140,Lamb County,17,Lubbock,<50,<50,96.9,<25,22.6,<25,29.0,2024
+141901,Lampasas ISD,141,Lampasas County,12,Waco,<250,<150,55.0,<25,16.7,<50,34.1,2024
+141902,Lometa ISD,141,Lampasas County,12,Waco,<25,<25,35.0,<25,,<25,14.3,2024
+142901,Cotulla ISD,142,La Salle County,20,San Antonio,<100,<75,77.9,<25,1.4,<25,4.1,2024
+143901,Hallettsville ISD,143,Lavaca County,3,Victoria,<125,<75,62.4,<25,17.5,<25,36.5,2024
+143902,Moulton ISD,143,Lavaca County,3,Victoria,<25,<25,57.1,<25,16.7,<25,25.0,2024
+143903,Shiner ISD,143,Lavaca County,3,Victoria,40,33,82.5,10,30.3,19,57.6,2024
+143906,Ezzell ISD,143,Lavaca County,3,Victoria,<25,<25,12.5,<25,,<25,,2024
+144901,Giddings ISD,144,Lee County,13,Austin,<150,<75,49.6,<25,10.4,<25,32.8,2024
+144902,Lexington ISD,144,Lee County,13,Austin,<100,<100,100.0,<25,8.5,<25,14.6,2024
+144903,Dime Box ISD,144,Lee County,13,Austin,<25,<25,100.0,<25,,<25,,2024
+145901,Buffalo ISD,145,Leon County,6,Huntsville,<75,<50,58.3,<25,14.3,<25,31.0,2024
+145902,Centerville ISD,145,Leon County,6,Huntsville,<50,<50,63.0,<25,6.9,<25,20.7,2024
+145906,Normangee ISD,145,Leon County,6,Huntsville,<50,<50,70.5,<25,12.9,<25,19.4,2024
+145907,Oakwood ISD,145,Leon County,6,Huntsville,<25,<25,100.0,<25,,<25,,2024
+145911,Leon ISD,145,Leon County,6,Huntsville,59,41,69.5,5,12.2,16,39.0,2024
+146901,Cleveland ISD,146,Liberty County,4,Houston,776,640,82.5,14,2.2,43,6.7,2024
+146902,Dayton ISD,146,Liberty County,4,Houston,<350,<200,54.2,<25,9.6,<50,20.7,2024
+146904,Hardin ISD,146,Liberty County,5,Beaumont,<100,<25,31.2,<25,8.3,<25,25.0,2024
+146905,Hull-Daisetta ISD,146,Liberty County,5,Beaumont,<25,<25,100.0,<25,,<25,,2024
+146906,Liberty ISD,146,Liberty County,5,Beaumont,<175,<75,40.9,<25,11.1,<25,30.2,2024
+146907,Tarkington ISD,146,Liberty County,4,Houston,<125,<100,67.5,<25,9.1,<25,20.8,2024
+147901,Coolidge ISD,147,Limestone County,12,Waco,<25,<25,5.3,<25,100.0,<25,100.0,2024
+147902,Groesbeck ISD,147,Limestone County,12,Waco,<125,<50,43.4,<25,4.1,<25,18.4,2024
+147903,Mexia ISD,147,Limestone County,12,Waco,136,117,86.0,6,5.1,6,5.1,2024
+148901,Booker ISD,148,Lipscomb County,16,Amarillo,<25,<25,61.9,<25,15.4,<25,7.7,2024
+148902,Follett ISD,148,Lipscomb County,16,Amarillo,<25,<25,100.0,<25,28.6,<25,28.6,2024
+149901,George West ISD,149,Live Oak County,2,Corpus Christi,54,27,50.0,10,37.0,11,40.7,2024
+149902,Three Rivers ISD,149,Live Oak County,2,Corpus Christi,<75,<50,90.6,<25,,<25,10.4,2024
+150901,Llano ISD,150,Llano County,13,Austin,135,74,54.8,17,23.0,27,36.5,2024
+152504,Texas Tech University K-12,152,Lubbock County,17,Lubbock,110,30,27.3,19,63.3,23,76.7,2024
+152901,Lubbock ISD,152,Lubbock County,17,Lubbock,"1,553","1,274",82.0,149,11.7,260,20.4,2024
+152902,New Deal ISD,152,Lubbock County,17,Lubbock,<50,<75,100.0,<25,9.8,<25,17.6,2024
+152903,Slaton ISD,152,Lubbock County,17,Lubbock,<100,<25,18.5,<25,13.3,<25,20.0,2024
+152906,Lubbock-Cooper ISD,152,Lubbock County,17,Lubbock,<500,<350,67.7,<75,18.3,<125,36.9,2024
+152907,Frenship ISD,152,Lubbock County,17,Lubbock,731,679,92.9,83,12.2,169,24.9,2024
+152908,Roosevelt ISD,152,Lubbock County,17,Lubbock,<75,<50,51.5,<25,11.4,<25,20.0,2024
+152909,Shallowater ISD,152,Lubbock County,17,Lubbock,112,106,94.6,24,22.6,44,41.5,2024
+152910,Idalou ISD,152,Lubbock County,17,Lubbock,<75,<75,96.8,<25,13.1,<25,31.1,2024
+153903,O'Donnell ISD,153,Lynn County,17,Lubbock,<25,<25,95.7,<25,4.5,<25,4.5,2024
+153904,Tahoka ISD,153,Lynn County,17,Lubbock,<50,<50,100.0,<25,10.3,<25,7.7,2024
+153905,New Home ISD,153,Lynn County,17,Lubbock,<50,<50,100.0,<25,9.5,<25,50.0,2024
+153907,Wilson ISD,153,Lynn County,17,Lubbock,<25,<25,66.7,<25,,<25,25.0,2024
+154901,Madisonville CISD,154,Madison County,6,Huntsville,<175,<75,46.7,<25,19.7,<50,35.2,2024
+154903,North Zulch ISD,154,Madison County,6,Huntsville,<25,<25,60.9,<25,14.3,<25,35.7,2024
+155901,Jefferson ISD,155,Marion County,8,Mt Pleasant,<100,<25,30.3,<25,13.0,<25,30.4,2024
+156902,Stanton ISD,156,Martin County,18,Midland,<75,<75,91.2,<25,3.2,<25,6.5,2024
+156905,Grady ISD,156,Martin County,18,Midland,<25,<25,100.0,<25,25.0,<25,25.0,2024
+157901,Mason ISD,157,Mason County,15,San Angelo,<75,<50,92.3,<25,25.0,<25,43.8,2024
+158901,Bay City ISD,158,Matagorda County,3,Victoria,<225,<100,37.9,<25,7.4,<25,14.8,2024
+158902,Tidehaven ISD,158,Matagorda County,3,Victoria,<75,<25,29.5,<25,,<25,16.7,2024
+158905,Palacios ISD,158,Matagorda County,3,Victoria,<100,<75,64.7,<25,7.3,<25,20.0,2024
+158906,Van Vleck ISD,158,Matagorda County,3,Victoria,<100,<50,50.0,<25,10.3,<25,23.1,2024
+159901,Eagle Pass ISD,159,Maverick County,20,San Antonio,"<1,000",<950,93.2,<75,6.0,<175,16.4,2024
+160901,Brady ISD,160,McCulloch County,15,San Angelo,73,65,89.0,8,12.3,12,18.5,2024
+160904,Rochelle ISD,160,McCulloch County,15,San Angelo,<25,<25,88.9,<25,12.5,<25,,2024
+161802,Rapoport Academy Public School,161,McLennan County,12,Waco,<50,<50,97.9,<25,6.4,<25,21.3,2024
+161807,Harmony Public Schools-North Texas,161,McLennan County,12,Waco,559,573,100.0,129,22.5,226,39.4,2024
+161901,Crawford ISD,161,McLennan County,12,Waco,<75,<50,53.7,<25,58.6,<25,72.4,2024
+161903,Midway ISD,161,McLennan County,12,Waco,689,366,53.1,149,40.7,192,52.5,2024
+161906,La Vega ISD,161,McLennan County,12,Waco,<225,<125,55.2,<25,5.7,<25,13.1,2024
+161907,Lorena ISD,161,McLennan County,12,Waco,130,79,60.8,21,26.6,31,39.2,2024
+161908,Mart ISD,161,McLennan County,12,Waco,<50,<50,100.0,<25,,<25,3.6,2024
+161909,McGregor ISD,161,McLennan County,12,Waco,<125,<50,39.4,<25,26.8,<25,41.5,2024
+161910,Moody ISD,161,McLennan County,12,Waco,<75,<50,60.0,<25,3.3,<25,20.0,2024
+161912,Riesel ISD,161,McLennan County,12,Waco,<50,<50,100.0,<25,6.5,<25,13.0,2024
+161914,Waco ISD,161,McLennan County,12,Waco,<825,<600,72.3,<25,3.2,<50,8.2,2024
+161916,West ISD,161,McLennan County,12,Waco,<100,<100,100.0,<25,11.7,<25,20.2,2024
+161918,Axtell ISD,161,McLennan County,12,Waco,<50,<25,17.9,<25,28.6,<25,28.6,2024
+161919,Bruceville-Eddy ISD,161,McLennan County,12,Waco,<50,<25,21.7,<25,40.0,<25,70.0,2024
+161920,China Spring ISD,161,McLennan County,12,Waco,241,152,63.1,30,19.7,58,38.2,2024
+161921,Connally ISD,161,McLennan County,12,Waco,<150,<75,44.5,<25,4.9,<25,6.6,2024
+161922,Robinson ISD,161,McLennan County,12,Waco,148,91,61.5,14,15.4,26,28.6,2024
+161923,Bosqueville ISD,161,McLennan County,12,Waco,<50,<50,63.0,<25,17.2,<25,55.2,2024
+161925,Gholson ISD,161,McLennan County,12,Waco,<25,<25,47.4,<25,11.1,<25,44.4,2024
+162904,McMullen County ISD,162,McMullen County,2,Corpus Christi,20,20,100.0,8,40.0,9,45.0,2024
+163901,Devine ISD,163,Medina County,20,San Antonio,<175,<75,46.2,<25,6.9,<25,25.0,2024
+163902,D'Hanis ISD,163,Medina County,20,San Antonio,<50,<25,50.0,<25,30.8,<25,46.2,2024
+163903,Natalia ISD,163,Medina County,20,San Antonio,<100,<100,82.4,<25,1.3,<25,6.7,2024
+163904,Hondo ISD,163,Medina County,20,San Antonio,<125,<125,90.9,<25,5.5,<25,4.5,2024
+163908,Medina Valley ISD,163,Medina County,20,San Antonio,498,289,58.0,52,18.0,85,29.4,2024
+164901,Menard ISD,164,Menard County,15,San Angelo,<50,<25,66.7,<25,,<25,16.7,2024
+165901,Midland ISD,165,Midland County,18,Midland,"1,648",573,34.8,117,20.4,239,41.7,2024
+165902,Greenwood ISD,165,Midland County,18,Midland,<175,<200,100.0,<25,7.3,<50,22.5,2024
+166901,Cameron ISD,166,Milam County,6,Huntsville,<100,<50,31.3,<25,16.1,<25,45.2,2024
+166903,Milano ISD,166,Milam County,6,Huntsville,<50,<25,61.3,<25,31.6,<25,73.7,2024
+166904,Rockdale ISD,166,Milam County,6,Huntsville,<100,<75,58.8,<25,10.5,<25,22.8,2024
+166905,Thorndale ISD,166,Milam County,13,Austin,<50,<50,97.8,<25,17.8,<25,31.1,2024
+166907,Buckholts ISD,166,Milam County,12,Waco,<25,<25,10.0,<25,100.0,<25,100.0,2024
+167901,Goldthwaite ISD,167,Mills County,12,Waco,44,27,61.4,6,22.2,9,33.3,2024
+167902,Mullin ISD,167,Mills County,12,Waco,<25,<25,12.5,<25,,<25,,2024
+167904,Priddy ISD,167,Mills County,12,Waco,<25,<25,,<25,,<25,,2024
+168901,Colorado ISD,168,Mitchell County,14,Abilene,<75,<50,61.9,<25,10.3,<25,17.9,2024
+168902,Loraine ISD,168,Mitchell County,14,Abilene,<25,<25,36.4,<25,25.0,<25,25.0,2024
+168903,Westbrook ISD,168,Mitchell County,14,Abilene,<25,<25,66.7,<25,7.1,<25,14.3,2024
+169901,Bowie ISD,169,Montague County,9,Wichita Falls,113,48,42.5,13,27.1,27,56.3,2024
+169902,Nocona ISD,169,Montague County,9,Wichita Falls,<50,<50,53.1,<25,15.4,<25,19.2,2024
+169906,Gold Burg ISD,169,Montague County,9,Wichita Falls,<25,<25,40.0,<25,,<25,,2024
+169909,Prairie Valley ISD,169,Montague County,9,Wichita Falls,<25,<25,88.9,<25,12.5,<25,37.5,2024
+169910,Forestburg ISD,169,Montague County,9,Wichita Falls,<25,<25,73.3,<25,,<25,18.2,2024
+169911,Saint Jo ISD,169,Montague County,9,Wichita Falls,<25,<25,91.7,<25,4.5,<25,4.5,2024
+170902,Conroe ISD,170,Montgomery County,6,Huntsville,"5,047","3,520",69.7,"1,303",37.0,"1,861",52.9,2024
+170903,Montgomery ISD,170,Montgomery County,6,Huntsville,750,526,70.1,181,34.4,296,56.3,2024
+170904,Willis ISD,170,Montgomery County,6,Huntsville,594,479,80.6,28,5.8,76,15.9,2024
+170906,Magnolia ISD,170,Montgomery County,6,Huntsville,"1,066",780,73.2,162,20.8,288,36.9,2024
+170907,Splendora ISD,170,Montgomery County,6,Huntsville,<325,<300,90.5,<25,3.6,<50,9.8,2024
+170908,New Caney ISD,170,Montgomery County,6,Huntsville,"1,229",572,46.5,79,13.8,99,17.3,2024
+171901,Dumas ISD,171,Moore County,16,Amarillo,<275,<125,42.8,<25,19.1,<50,23.6,2024
+171902,Sunray Collegiate ISD,171,Moore County,16,Amarillo,<50,<50,100.0,<25,2.9,<25,5.7,2024
+172902,Daingerfield-Lone Star ISD,172,Morris County,8,Mt Pleasant,<75,<50,53.4,<25,7.7,<25,10.3,2024
+172905,Pewitt CISD,172,Morris County,8,Mt Pleasant,<75,<50,81.5,<25,13.6,<25,13.6,2024
+173901,Motley County ISD,173,Motley County,17,Lubbock,<25,<25,100.0,<25,10.0,<25,30.0,2024
+174901,Chireno ISD,174,Nacogdoches County,7,Kilgore,<25,<25,77.3,<25,11.8,<25,29.4,2024
+174902,Cushing ISD,174,Nacogdoches County,7,Kilgore,<50,<50,74.3,<25,7.7,<25,34.6,2024
+174903,Garrison ISD,174,Nacogdoches County,7,Kilgore,<50,<50,61.2,<25,16.7,<25,33.3,2024
+174904,Nacogdoches ISD,174,Nacogdoches County,7,Kilgore,<425,<175,40.4,<50,17.4,<75,32.9,2024
+174906,Woden ISD,174,Nacogdoches County,7,Kilgore,<75,<50,65.4,<25,5.9,<25,41.2,2024
+174908,Central Heights ISD,174,Nacogdoches County,7,Kilgore,<100,<100,98.7,<25,17.9,<25,30.8,2024
+174909,Martinsville ISD,174,Nacogdoches County,7,Kilgore,<25,<25,86.7,<25,,<25,,2024
+174911,Douglass ISD,174,Nacogdoches County,7,Kilgore,<50,<50,88.6,<25,25.8,<25,35.5,2024
+175902,Blooming Grove ISD,175,Navarro County,12,Waco,<75,<75,89.8,<25,1.9,<25,15.1,2024
+175903,Corsicana ISD,175,Navarro County,12,Waco,<425,<325,71.6,<25,5.7,<50,15.3,2024
+175904,Dawson ISD,175,Navarro County,12,Waco,<50,<25,53.3,<25,12.5,<25,25.0,2024
+175905,Frost ISD,175,Navarro County,12,Waco,<50,<25,27.6,<25,12.5,<25,12.5,2024
+175907,Kerens ISD,175,Navarro County,12,Waco,<75,<50,82.4,<25,2.4,<25,9.5,2024
+175910,Mildred ISD,175,Navarro County,12,Waco,<75,<50,73.2,<25,9.8,<25,43.9,2024
+175911,Rice ISD,175,Navarro County,12,Waco,<75,<75,95.9,<25,7.1,<25,11.4,2024
+176901,Burkeville ISD,176,Newton County,5,Beaumont,<25,<25,81.3,<25,7.7,<25,15.4,2024
+176902,Newton ISD,176,Newton County,5,Beaumont,<75,<50,53.6,<25,13.3,<25,3.3,2024
+176903,Deweyville ISD,176,Newton County,5,Beaumont,<50,<50,90.7,<25,7.7,<25,10.3,2024
+177901,Roscoe Collegiate ISD,177,Nolan County,14,Abilene,<50,<50,95.7,<25,11.1,<25,17.8,2024
+177902,Sweetwater ISD,177,Nolan County,14,Abilene,<125,<75,48.4,<25,13.6,<25,18.6,2024
+177903,Blackwell CISD,177,Nolan County,14,Abilene,<25,<25,100.0,<25,14.3,<25,28.6,2024
+177905,Highland ISD,177,Nolan County,14,Abilene,<25,<25,93.3,<25,28.6,<25,42.9,2024
+178901,Agua Dulce ISD,178,Nueces County,2,Corpus Christi,<25,<25,57.1,<25,12.5,<25,12.5,2024
+178902,Bishop CISD,178,Nueces County,2,Corpus Christi,<150,<50,21.5,<25,16.1,<25,19.4,2024
+178903,Calallen ISD,178,Nueces County,2,Corpus Christi,<300,<275,94.7,<50,10.0,<75,24.2,2024
+178904,Corpus Christi ISD,178,Nueces County,2,Corpus Christi,"2,399","1,569",65.4,158,10.1,283,18.0,2024
+178906,London ISD,178,Nueces County,2,Corpus Christi,<150,<150,100.0,<50,31.0,<75,54.3,2024
+178908,Port Aransas ISD,178,Nueces County,2,Corpus Christi,<50,<50,75.0,<25,53.3,<25,63.3,2024
+178909,Robstown ISD,178,Nueces County,2,Corpus Christi,<175,<150,81.4,<25,5.3,<25,6.1,2024
+178912,Tuloso-Midway ISD,178,Nueces County,2,Corpus Christi,276,91,33.0,20,22.0,32,35.2,2024
+178913,Banquete ISD,178,Nueces County,2,Corpus Christi,<75,<75,95.7,<25,4.5,<25,9.1,2024
+178914,Flour Bluff ISD,178,Nueces County,2,Corpus Christi,459,248,54.0,66,26.6,106,42.7,2024
+178915,West Oso ISD,178,Nueces County,2,Corpus Christi,<125,<50,43.0,<25,4.1,<25,12.2,2024
+179901,Perryton ISD,179,Ochiltree County,16,Amarillo,<175,<75,37.3,<25,25.0,<25,33.3,2024
+180901,Boys Ranch ISD,180,Oldham County,16,Amarillo,<50,<25,80.0,<25,4.2,<25,8.3,2024
+180902,Vega ISD,180,Oldham County,16,Amarillo,<50,<50,92.9,<25,26.9,<25,46.2,2024
+180903,Adrian ISD,180,Oldham County,16,Amarillo,<25,<25,66.7,<25,,<25,,2024
+180904,Wildorado ISD,180,Oldham County,16,Amarillo,<25,<25,27.8,<25,60.0,<25,80.0,2024
+181901,Bridge City ISD,181,Orange County,5,Beaumont,<225,<125,57.1,<25,11.1,<50,31.6,2024
+181905,Orangefield ISD,181,Orange County,5,Beaumont,<125,<100,72.1,<25,9.1,<25,21.6,2024
+181906,West Orange-Cove CISD,181,Orange County,5,Beaumont,<150,<125,87.6,<25,2.5,<25,8.3,2024
+181907,Vidor ISD,181,Orange County,5,Beaumont,279,96,34.4,20,20.8,34,35.4,2024
+181908,Little Cypress-Mauriceville CISD,181,Orange County,5,Beaumont,<225,<175,71.9,<25,9.3,<50,30.4,2024
+182901,Gordon ISD,182,Palo Pinto County,11,Fort Worth,<25,<25,76.2,<25,12.5,<25,25.0,2024
+182902,Graford ISD,182,Palo Pinto County,11,Fort Worth,<50,<25,42.9,<25,16.7,<25,25.0,2024
+182903,Mineral Wells ISD,182,Palo Pinto County,11,Fort Worth,<225,<75,34.1,<25,6.9,<25,27.8,2024
+182904,Santo ISD,182,Palo Pinto County,11,Fort Worth,<50,<25,41.7,<25,13.3,<25,40.0,2024
+182905,Strawn ISD,182,Palo Pinto County,11,Fort Worth,<25,<25,37.5,<25,,<25,,2024
+183801,Panola Charter School,183,Panola County,7,Kilgore,<75,<50,62.3,<25,24.2,<25,24.2,2024
+183901,Beckville ISD,183,Panola County,7,Kilgore,<50,<50,94.9,<25,13.5,<25,16.2,2024
+183902,Carthage ISD,183,Panola County,7,Kilgore,<200,<75,37.8,<25,32.9,<25,34.3,2024
+183904,Gary ISD,183,Panola County,7,Kilgore,<25,<25,73.7,<25,7.1,<25,7.1,2024
+184801,Crosstimbers Academy,184,Parker County,11,Fort Worth,<75,<25,29.7,<25,,<25,,2024
+184901,Poolville ISD,184,Parker County,11,Fort Worth,<50,<25,35.7,<25,10.0,<25,40.0,2024
+184902,Springtown ISD,184,Parker County,11,Fort Worth,260,123,47.3,28,22.8,49,39.8,2024
+184903,Weatherford ISD,184,Parker County,11,Fort Worth,589,479,81.3,51,10.6,98,20.5,2024
+184904,Millsap ISD,184,Parker County,11,Fort Worth,<75,<50,43.2,<25,21.9,<25,50.0,2024
+184907,Aledo ISD,184,Parker County,11,Fort Worth,494,481,97.4,162,33.7,240,49.9,2024
+184908,Peaster ISD,184,Parker County,11,Fort Worth,97,56,57.7,15,26.8,28,50.0,2024
+184909,Brock ISD,184,Parker County,11,Fort Worth,138,123,89.1,23,18.7,44,35.8,2024
+185901,Bovina ISD,185,Parmer County,16,Amarillo,<50,<50,97.4,<25,8.1,<25,21.6,2024
+185902,Farwell ISD,185,Parmer County,16,Amarillo,<50,<25,63.2,<25,12.5,<25,20.8,2024
+185903,Friona ISD,185,Parmer County,16,Amarillo,<75,<75,100.0,<25,4.2,<25,8.5,2024
+185904,Lazbuddie ISD,185,Parmer County,16,Amarillo,<25,<25,33.3,<25,,<25,,2024
+186901,Buena Vista ISD,186,Pecos County,18,Midland,<25,<25,83.3,<25,10.0,<25,25.0,2024
+186902,Fort Stockton ISD,186,Pecos County,18,Midland,<400,<50,11.9,<25,8.7,<25,13.0,2024
+186903,Iraan-Sheffield Collegiate ISD,186,Pecos County,18,Midland,<25,<25,95.5,<25,14.3,<25,9.5,2024
+187901,Big Sandy ISD,187,Polk County,6,Huntsville,<50,<50,96.3,<25,3.8,<25,15.4,2024
+187903,Goodrich ISD,187,Polk County,6,Huntsville,<25,<25,78.6,<25,,<25,,2024
+187904,Corrigan-Camden ISD,187,Polk County,6,Huntsville,<75,<50,90.0,<25,,<25,4.4,2024
+187906,Leggett ISD,187,Polk County,6,Huntsville,<25,<25,100.0,<25,,<25,,2024
+187907,Livingston ISD,187,Polk County,6,Huntsville,<275,<250,94.9,<25,6.6,<75,21.9,2024
+187910,Onalaska ISD,187,Polk County,6,Huntsville,<100,<50,57.1,<25,2.3,<25,20.5,2024
+188901,Amarillo ISD,188,Potter County,16,Amarillo,"1,895","1,721",90.8,199,11.6,422,24.5,2024
+188902,River Road ISD,188,Potter County,16,Amarillo,83,77,92.8,5,6.5,8,10.4,2024
+188903,Highland Park ISD,188,Potter County,16,Amarillo,<50,<25,11.6,<25,,<25,,2024
+188904,Bushland ISD,188,Potter County,16,Amarillo,<100,<125,100.0,<50,26.7,<50,41.0,2024
+189901,Marfa ISD,189,Presidio County,18,Midland,<25,<25,86.4,<25,10.5,<25,10.5,2024
+189902,Presidio ISD,189,Presidio County,18,Midland,<25,<50,,<25,7.1,<25,16.7,2024
+190903,Rains ISD,190,Rains County,7,Kilgore,<125,<50,30.8,<25,16.7,<25,30.6,2024
+191901,Canyon ISD,191,Randall County,16,Amarillo,745,713,95.7,101,14.2,219,30.7,2024
+192901,Reagan County ISD,192,Reagan County,18,Midland,<75,<75,100.0,<25,7.5,<25,7.5,2024
+193902,Leakey ISD,193,Real County,20,San Antonio,<50,<25,72.0,<25,27.8,<25,38.9,2024
+194902,Avery ISD,194,Red River County,8,Mt Pleasant,<50,<25,60.0,<25,27.8,<25,44.4,2024
+194903,Rivercrest ISD,194,Red River County,8,Mt Pleasant,<50,<50,85.0,<25,8.8,<25,14.7,2024
+194904,Clarksville ISD,194,Red River County,8,Mt Pleasant,<50,<50,79.4,<25,11.1,<25,14.8,2024
+194905,Detroit ISD,194,Red River County,8,Mt Pleasant,<25,<25,65.0,<25,7.7,<25,7.7,2024
+195901,Pecos-Barstow-Toyah ISD,195,Reeves County,18,Midland,<175,<175,92.0,<25,0.7,<25,2.0,2024
+195902,Balmorhea ISD,195,Reeves County,18,Midland,<25,<25,86.7,<25,,<25,,2024
+196901,Austwell-Tivoli ISD,196,Refugio County,3,Victoria,<25,<25,100.0,<25,10.0,<25,20.0,2024
+196902,Woodsboro ISD,196,Refugio County,3,Victoria,<50,<25,47.1,<25,6.3,<25,12.5,2024
+196903,Refugio ISD,196,Refugio County,3,Victoria,<50,<25,46.8,<25,4.5,<25,31.8,2024
+197902,Miami ISD,197,Roberts County,16,Amarillo,<25,<25,100.0,<25,26.7,<25,26.7,2024
+198901,Bremond ISD,198,Robertson County,6,Huntsville,<50,<50,76.2,<25,9.4,<25,21.9,2024
+198902,Calvert ISD,198,Robertson County,6,Huntsville,<25,<25,22.2,<25,,<25,,2024
+198903,Franklin ISD,198,Robertson County,6,Huntsville,<125,<75,64.4,<25,13.8,<25,32.3,2024
+198905,Hearne ISD,198,Robertson County,6,Huntsville,<75,<50,58.6,<25,8.8,<25,5.9,2024
+198906,Mumford ISD,198,Robertson County,6,Huntsville,41,19,46.3,5,26.3,12,63.2,2024
+199901,Rockwall ISD,199,Rockwall County,10,Richardson,"1,422","1,241",87.3,286,23.0,481,38.8,2024
+199902,Royse City ISD,199,Rockwall County,10,Richardson,577,532,92.2,34,6.4,112,21.1,2024
+200901,Ballinger ISD,200,Runnels County,15,San Angelo,59,33,55.9,8,24.2,6,18.2,2024
+200902,Miles ISD,200,Runnels County,15,San Angelo,<50,<50,96.7,<25,34.5,<25,44.8,2024
+200904,Winters ISD,200,Runnels County,15,San Angelo,<50,<50,97.0,<25,,<25,6.3,2024
+200906,Olfen ISD,200,Runnels County,15,San Angelo,<25,<25,66.7,<25,,<25,25.0,2024
+201902,Henderson ISD,201,Rusk County,7,Kilgore,<250,<225,90.3,<25,6.8,<25,9.3,2024
+201903,Laneville ISD,201,Rusk County,7,Kilgore,<25,<25,83.3,<25,,<25,,2024
+201907,Mount Enterprise ISD,201,Rusk County,7,Kilgore,<50,<50,100.0,<25,,<25,20.7,2024
+201908,Overton ISD,201,Rusk County,7,Kilgore,<50,<50,81.3,<25,7.7,<25,7.7,2024
+201910,Tatum ISD,201,Rusk County,7,Kilgore,<125,<50,29.9,<25,21.9,<25,18.8,2024
+201913,Carlisle ISD,201,Rusk County,7,Kilgore,<50,<25,27.0,<25,10.0,<25,40.0,2024
+201914,West Rusk County Consolidated ISD,201,Rusk County,7,Kilgore,<100,<50,33.3,<25,24.0,<25,28.0,2024
+202903,Hemphill ISD,202,Sabine County,7,Kilgore,<50,<25,17.0,<25,,<25,12.5,2024
+202905,West Sabine ISD,202,Sabine County,7,Kilgore,<50,<50,75.6,<25,2.9,<25,8.8,2024
+203901,San Augustine ISD,203,San Augustine County,7,Kilgore,<75,<25,37.3,<25,5.3,<25,10.5,2024
+203902,Broaddus ISD,203,San Augustine County,7,Kilgore,<25,<25,21.7,<25,20.0,<25,,2024
+204901,Coldspring-Oakhurst CISD,204,San Jacinto County,6,Huntsville,108,81,75.0,8,9.9,14,17.3,2024
+204904,Shepherd ISD,204,San Jacinto County,6,Huntsville,<150,<75,41.4,<25,5.2,<25,13.8,2024
+205901,Aransas Pass ISD,205,San Patricio County,2,Corpus Christi,<125,<100,76.4,<25,2.5,<25,8.6,2024
+205902,Gregory-Portland ISD,205,San Patricio County,2,Corpus Christi,<325,<300,88.5,<50,10.8,<75,25.9,2024
+205903,Ingleside ISD,205,San Patricio County,2,Corpus Christi,<150,<125,89.8,<25,10.4,<25,10.4,2024
+205904,Mathis ISD,205,San Patricio County,2,Corpus Christi,<100,<100,96.9,<25,6.4,<25,13.8,2024
+205905,Odem-Edroy ISD,205,San Patricio County,2,Corpus Christi,<75,<25,5.2,<25,66.7,<25,66.7,2024
+205906,Sinton ISD,205,San Patricio County,2,Corpus Christi,<175,<150,89.0,<25,4.4,<25,11.7,2024
+205907,Taft ISD,205,San Patricio County,2,Corpus Christi,<75,<75,100.0,<25,1.6,<25,1.6,2024
+206901,San Saba ISD,206,San Saba County,15,San Angelo,34,38,100.0,9,23.7,12,31.6,2024
+206902,Richland Springs ISD,206,San Saba County,15,San Angelo,<25,<25,100.0,<25,,<25,8.3,2024
+206903,Cherokee ISD,206,San Saba County,15,San Angelo,<25,<25,75.0,<25,,<25,22.2,2024
+207901,Schleicher ISD,207,Schleicher County,15,San Angelo,<50,<50,100.0,<25,7.9,<25,18.4,2024
+208901,Hermleigh ISD,208,Scurry County,14,Abilene,<25,<25,42.1,<25,12.5,<25,12.5,2024
+208902,Snyder ISD,208,Scurry County,14,Abilene,165,75,45.5,16,21.3,23,30.7,2024
+208903,Ira ISD,208,Scurry County,14,Abilene,<25,<25,100.0,<25,26.7,<25,33.3,2024
+209901,Albany ISD,209,Shackelford County,14,Abilene,<50,<50,91.5,<25,11.6,<25,37.2,2024
+209902,Moran ISD,209,Shackelford County,14,Abilene,<25,<25,57.1,<25,,<25,,2024
+210901,Center ISD,210,Shelby County,7,Kilgore,<200,<100,47.2,<25,7.1,<25,9.4,2024
+210902,Joaquin ISD,210,Shelby County,7,Kilgore,<50,<50,78.7,<25,16.2,<25,21.6,2024
+210903,Shelbyville ISD,210,Shelby County,7,Kilgore,<50,<50,66.7,<25,7.1,<25,21.4,2024
+210904,Tenaha ISD,210,Shelby County,7,Kilgore,<50,<50,58.1,<25,16.0,<25,16.0,2024
+210905,Timpson ISD,210,Shelby County,7,Kilgore,<75,<50,60.0,<25,18.2,<25,15.2,2024
+211902,Stratford ISD,211,Sherman County,16,Amarillo,<50,<50,76.3,<25,10.3,<25,24.1,2024
+212801,Cumberland Academy,212,Smith County,7,Kilgore,<125,<50,22.8,<25,10.7,<25,21.4,2024
+212804,UT Tyler University Academy,212,Smith County,7,Kilgore,56,58,100.0,23,39.7,31,53.4,2024
+212901,Arp ISD,212,Smith County,7,Kilgore,54,34,63.0,7,20.6,9,26.5,2024
+212902,Bullard ISD,212,Smith County,7,Kilgore,<225,<150,61.1,<25,17.4,<75,37.9,2024
+212903,Lindale ISD,212,Smith County,7,Kilgore,335,137,40.9,44,32.1,64,46.7,2024
+212904,Troup ISD,212,Smith County,7,Kilgore,<100,<50,42.5,<25,23.5,<25,26.5,2024
+212905,Tyler ISD,212,Smith County,7,Kilgore,"1,114",478,42.9,93,19.5,166,34.7,2024
+212906,Whitehouse ISD,212,Smith County,7,Kilgore,371,334,90.0,58,17.4,124,37.1,2024
+212909,Chapel Hill ISD,212,Smith County,7,Kilgore,<275,<75,23.9,<25,11.5,<25,36.1,2024
+212910,Winona ISD,212,Smith County,7,Kilgore,<75,<100,100.0,<25,6.7,<25,22.7,2024
+213901,Glen Rose ISD,213,Somervell County,11,Fort Worth,122,100,82.0,20,20.0,33,33.0,2024
+214901,Rio Grande City Grulla ISD,214,Starr County,1,Edinburg,<725,<250,32.6,<25,6.4,<50,12.0,2024
+214902,San Isidro ISD,214,Starr County,1,Edinburg,<25,<25,28.6,<25,,<25,,2024
+214903,Roma ISD,214,Starr County,1,Edinburg,<475,<125,24.4,<25,18.9,<25,20.7,2024
+215901,Breckenridge ISD,215,Stephens County,14,Abilene,<125,<75,60.7,<25,8.8,<25,19.1,2024
+216901,Sterling City ISD,216,Sterling County,15,San Angelo,<50,<50,88.2,<25,10.0,<25,13.3,2024
+217901,Aspermont ISD,217,Stonewall County,14,Abilene,<25,<25,89.5,<25,23.5,<25,29.4,2024
+218901,Sonora ISD,218,Sutton County,15,San Angelo,<75,<50,74.5,<25,4.9,<25,7.3,2024
+219901,Happy ISD,219,Swisher County,16,Amarillo,<25,<25,100.0,<25,16.7,<25,20.8,2024
+219903,Tulia ISD,219,Swisher County,16,Amarillo,<75,<75,82.5,<25,5.8,<25,11.5,2024
+219905,Kress ISD,219,Swisher County,16,Amarillo,<25,<25,88.9,<25,,<25,25.0,2024
+220801,Treetops School International,220,Tarrant County,11,Fort Worth,<25,<25,91.7,<25,18.2,<25,54.5,2024
+220809,Fort Worth Academy of Fine Arts,220,Tarrant County,11,Fort Worth,<75,<75,98.5,<25,12.5,<25,25.0,2024
+220810,Westlake Academy Charter School,220,Tarrant County,11,Fort Worth,<75,<75,98.5,<50,73.4,<75,87.5,2024
+220817,Newman International Academy,220,Tarrant County,11,Fort Worth,118,131,100.0,10,7.6,21,16.0,2024
+220901,Arlington ISD,220,Tarrant County,11,Fort Worth,"3,935","3,530",89.7,475,13.5,846,24.0,2024
+220902,Birdville ISD,220,Tarrant County,11,Fort Worth,"1,559","1,323",84.9,195,14.7,383,28.9,2024
+220904,Everman ISD,220,Tarrant County,11,Fort Worth,469,341,72.7,12,3.5,41,12.0,2024
+220905,Fort Worth ISD,220,Tarrant County,11,Fort Worth,"4,718","4,141",87.8,343,8.3,611,14.8,2024
+220906,Grapevine-Colleyville ISD,220,Tarrant County,11,Fort Worth,"1,223","1,097",89.7,433,39.5,581,53.0,2024
+220907,Keller ISD,220,Tarrant County,11,Fort Worth,"2,718","2,371",87.2,657,27.7,"1,029",43.4,2024
+220908,Mansfield ISD,220,Tarrant County,11,Fort Worth,"2,908","2,619",90.1,477,18.2,877,33.5,2024
+220910,Lake Worth ISD,220,Tarrant County,11,Fort Worth,<250,<250,100.0,<25,1.3,<25,1.7,2024
+220912,Crowley ISD,220,Tarrant County,11,Fort Worth,"1,227",854,69.6,50,5.9,124,14.5,2024
+220914,Kennedale ISD,220,Tarrant County,11,Fort Worth,<275,<200,73.1,<25,6.2,<50,20.7,2024
+220915,Azle ISD,220,Tarrant County,11,Fort Worth,525,420,80.0,44,10.5,119,28.3,2024
+220916,Hurst-Euless-Bedford ISD,220,Tarrant County,11,Fort Worth,"1,681","1,557",92.6,324,20.8,562,36.1,2024
+220917,Castleberry ISD,220,Tarrant County,11,Fort Worth,<300,<225,76.0,<25,1.9,<25,7.2,2024
+220918,Eagle Mt-Saginaw ISD,220,Tarrant County,11,Fort Worth,"1,732","1,409",81.4,172,12.2,346,24.6,2024
+220919,Carroll ISD,220,Tarrant County,11,Fort Worth,702,680,96.9,506,74.4,574,84.4,2024
+220920,White Settlement ISD,220,Tarrant County,11,Fort Worth,557,475,85.3,35,7.4,71,14.9,2024
+221801,Texas College Preparatory,221,Taylor County,14,Abilene,710,626,88.2,203,32.4,305,48.7,2024
+221901,Abilene ISD,221,Taylor County,14,Abilene,949,753,79.3,106,14.1,107,14.2,2024
+221904,Merkel ISD,221,Taylor County,14,Abilene,<100,<75,76.0,<25,15.1,<25,19.2,2024
+221905,Trent ISD,221,Taylor County,14,Abilene,<25,<25,71.4,<25,,<25,,2024
+221911,Jim Ned CISD,221,Taylor County,14,Abilene,103,70,68.0,20,28.6,31,44.3,2024
+221912,Wylie ISD,221,Taylor County,14,Abilene,319,195,61.1,64,32.8,101,51.8,2024
+222901,Terrell County ISD,222,Terrell County,18,Midland,<25,<25,83.3,<25,20.0,<25,20.0,2024
+223901,Brownfield ISD,223,Terry County,17,Lubbock,<150,<125,77.6,<25,4.4,<25,15.8,2024
+223902,Meadow ISD,223,Terry County,17,Lubbock,<25,<25,63.6,<25,,<25,,2024
+223904,Wellman-Union CISD,223,Terry County,17,Lubbock,<25,<25,100.0,<25,14.3,<25,7.1,2024
+224901,Throckmorton Collegiate ISD,224,Throckmorton County,9,Wichita Falls,<25,<25,70.6,<25,16.7,<25,16.7,2024
+224902,Woodson ISD,224,Throckmorton County,9,Wichita Falls,<25,<25,92.3,<25,25.0,<25,33.3,2024
+225902,Mount Pleasant ISD,225,Titus County,8,Mt Pleasant,355,114,32.1,23,20.2,37,32.5,2024
+225906,Chapel Hill ISD,225,Titus County,8,Mt Pleasant,72,38,52.8,11,28.9,16,42.1,2024
+225907,Harts Bluff ISD,225,Titus County,8,Mt Pleasant,<50,<50,76.1,<25,8.6,<25,17.1,2024
+226801,Texas Leadership Public Schools,226,Tom Green County,15,San Angelo,<175,<175,98.8,<25,7.8,<25,10.8,2024
+226901,Christoval ISD,226,Tom Green County,15,San Angelo,<75,<25,37.3,<25,18.2,<25,36.4,2024
+226903,San Angelo ISD,226,Tom Green County,15,San Angelo,872,816,93.6,78,9.6,149,18.3,2024
+226905,Water Valley ISD,226,Tom Green County,15,San Angelo,<25,<25,94.7,<25,5.6,<25,5.6,2024
+226906,Wall ISD,226,Tom Green County,15,San Angelo,<100,<75,75.3,<25,32.8,<50,51.7,2024
+226907,Grape Creek ISD,226,Tom Green County,15,San Angelo,<25,<75,100.0,<25,4.0,<25,6.0,2024
+226908,Veribest ISD,226,Tom Green County,15,San Angelo,<25,<25,63.6,<25,14.3,<25,21.4,2024
+227506,University of Texas at Austin HS,227,Travis County,13,Austin,242,103,42.6,39,37.9,64,62.1,2024
+227803,Wayside Schools,227,Travis County,13,Austin,<50,<50,100.0,<25,8.3,<25,5.6,2024
+227804,NYOS Charter School,227,Travis County,13,Austin,<75,<75,100.0,<25,25.4,<50,39.4,2024
+227805,Texas Empowerment Academy,227,Travis County,13,Austin,<25,<25,100.0,<25,,<25,12.5,2024
+227806,University of Texas University,227,Travis County,13,Austin,<50,<25,2.9,<25,,<25,100.0,2024
+227814,Chaparral Star Academy,227,Travis County,13,Austin,<25,<25,100.0,<25,64.7,<25,76.5,2024
+227816,Harmony Public Schools-Central,227,Travis County,13,Austin,<225,<225,100.0,<50,21.5,<100,39.2,2024
+227817,Cedars International Academy,227,Travis County,13,Austin,<50,<50,100.0,<25,6.5,<25,22.6,2024
+227820,KIPP Texas Public Schools,227,Travis County,4,Houston,"1,358","1,427",100.0,124,8.7,220,15.4,2024
+227824,Valere Public Schools,227,Travis County,13,Austin,<50,<25,25.6,<25,,<25,10.0,2024
+227825,Austin Achieve Public Schools,227,Travis County,13,Austin,<150,<150,100.0,<25,8.1,<25,8.7,2024
+227829,Valor Education,227,Travis County,13,Austin,<25,<25,100.0,<25,55.0,<25,65.0,2024
+227901,Austin ISD,227,Travis County,13,Austin,"4,574","4,083",89.3,"1,358",33.3,"1,784",43.7,2024
+227904,Pflugerville ISD,227,Travis County,13,Austin,"1,845","1,707",92.5,288,16.9,509,29.8,2024
+227907,Manor ISD,227,Travis County,13,Austin,<750,<675,89.4,<25,3.3,<75,10.0,2024
+227909,Eanes ISD,227,Travis County,13,Austin,688,672,97.7,483,71.9,562,83.6,2024
+227910,Del Valle ISD,227,Travis County,13,Austin,<800,<575,73.0,<25,3.9,<75,9.6,2024
+227912,Lago Vista ISD,227,Travis County,13,Austin,<150,<150,100.0,<25,15.0,<50,32.0,2024
+227913,Lake Travis ISD,227,Travis County,13,Austin,859,814,94.8,370,45.5,541,66.5,2024
+228901,Groveton ISD,228,Trinity County,6,Huntsville,52,41,78.8,8,19.5,16,39.0,2024
+228903,Trinity ISD,228,Trinity County,6,Huntsville,<125,<50,40.8,<25,2.4,<25,11.9,2024
+228904,Centerville ISD,228,Trinity County,6,Huntsville,<25,<25,69.2,<25,,<25,,2024
+228905,Apple Springs ISD,228,Trinity County,6,Huntsville,<25,<25,100.0,<25,,<25,23.5,2024
+229901,Colmesneil ISD,229,Tyler County,5,Beaumont,<25,<25,34.8,<25,,<25,12.5,2024
+229903,Woodville ISD,229,Tyler County,5,Beaumont,<75,<50,60.9,<25,4.8,<25,14.3,2024
+229904,Warren ISD,229,Tyler County,5,Beaumont,86,51,59.3,15,29.4,16,31.4,2024
+229905,Spurger ISD,229,Tyler County,5,Beaumont,<25,<25,88.2,<25,6.7,<25,6.7,2024
+229906,Chester ISD,229,Tyler County,5,Beaumont,<25,<25,45.5,<25,,<25,20.0,2024
+230901,Big Sandy ISD,230,Upshur County,7,Kilgore,<50,<50,97.1,<25,2.9,<25,17.6,2024
+230902,Gilmer ISD,230,Upshur County,7,Kilgore,187,89,47.6,17,19.1,29,32.6,2024
+230903,Ore City ISD,230,Upshur County,7,Kilgore,<75,<25,41.8,<25,8.7,<25,4.3,2024
+230904,Union Hill ISD,230,Upshur County,7,Kilgore,<25,<25,85.7,<25,,<25,8.3,2024
+230905,Harmony ISD,230,Upshur County,7,Kilgore,<75,<50,72.1,<25,38.8,<25,40.8,2024
+230906,New Diana ISD,230,Upshur County,7,Kilgore,<75,<50,65.3,<25,8.5,<25,21.3,2024
+230908,Union Grove ISD,230,Upshur County,7,Kilgore,<75,<25,36.8,<25,23.8,<25,38.1,2024
+231902,Rankin ISD,231,Upton County,18,Midland,<25,<25,100.0,<25,9.1,<25,13.6,2024
+232901,Knippa ISD,232,Uvalde County,20,San Antonio,<25,<25,84.6,<25,27.3,<25,45.5,2024
+232902,Sabinal ISD,232,Uvalde County,20,San Antonio,<50,<50,100.0,<25,,<25,9.7,2024
+232903,Uvalde CISD,232,Uvalde County,20,San Antonio,<325,<225,69.1,<25,6.0,<50,12.4,2024
+232904,Utopia ISD,232,Uvalde County,20,San Antonio,<25,<25,100.0,<25,12.5,<25,20.8,2024
+233901,San Felipe-Del Rio CISD,233,Val Verde County,15,San Angelo,<725,<150,18.9,<25,14.7,<75,38.2,2024
+233903,Comstock ISD,233,Val Verde County,15,San Angelo,<25,<25,88.9,<25,25.0,<25,50.0,2024
+234801,Ranch Academy,234,Van Zandt County,7,Kilgore,<25,<25,4.8,<25,,<25,100.0,2024
+234902,Canton ISD,234,Van Zandt County,10,Richardson,<200,<125,57.7,<25,16.8,<50,34.7,2024
+234903,Edgewood ISD,234,Van Zandt County,7,Kilgore,94,94,100.0,11,11.7,21,22.3,2024
+234904,Grand Saline ISD,234,Van Zandt County,7,Kilgore,<100,<50,58.2,<25,13.0,<25,23.9,2024
+234905,Martins Mill ISD,234,Van Zandt County,7,Kilgore,<25,<25,66.7,<25,21.4,<25,21.4,2024
+234906,Van ISD,234,Van Zandt County,7,Kilgore,170,142,83.5,13,9.2,32,22.5,2024
+234907,Wills Point ISD,234,Van Zandt County,10,Richardson,<200,<175,91.9,<25,7.0,<50,17.5,2024
+234909,Fruitvale ISD,234,Van Zandt County,7,Kilgore,<50,<25,22.6,<25,,<25,14.3,2024
+235901,Bloomington ISD,235,Victoria County,3,Victoria,<75,<25,37.9,<25,4.5,<25,13.6,2024
+235902,Victoria ISD,235,Victoria County,3,Victoria,855,375,43.9,45,12.0,103,27.5,2024
+236901,New Waverly ISD,236,Walker County,6,Huntsville,<75,<50,38.6,<25,25.9,<25,40.7,2024
+236902,Huntsville ISD,236,Walker County,6,Huntsville,913,296,32.4,44,14.9,91,30.7,2024
+237902,Hempstead ISD,237,Waller County,4,Houston,<125,<50,41.0,<25,4.9,<25,9.8,2024
+237904,Waller ISD,237,Waller County,4,Houston,571,509,89.1,31,6.1,76,14.9,2024
+237905,Royal ISD,237,Waller County,4,Houston,<175,<150,80.5,<25,2.1,<25,9.3,2024
+238902,Monahans-Wickett-Pyote ISD,238,Ward County,18,Midland,<150,<125,83.9,<25,2.6,<25,11.3,2024
+238904,Grandfalls-Royalty ISD,238,Ward County,18,Midland,<25,<25,50.0,<25,,<25,,2024
+239901,Brenham ISD,239,Washington County,6,Huntsville,356,208,58.4,43,20.7,84,40.4,2024
+239903,Burton ISD,239,Washington County,6,Huntsville,<50,<50,93.5,<25,10.3,<25,17.2,2024
+240503,Texas A&M International University,240,Webb County,1,Edinburg,<25,<50,,<25,36.8,<50,71.1,2024
+240801,Triumph Public HS-Laredo,240,Webb County,1,Edinburg,<100,<25,10.1,<25,,<25,,2024
+240901,Laredo ISD,240,Webb County,1,Edinburg,"1,448","1,142",78.9,51,4.5,117,10.2,2024
+240903,United ISD,240,Webb County,1,Edinburg,"3,134","2,041",65.1,182,8.9,405,19.8,2024
+240904,Webb CISD,240,Webb County,1,Edinburg,<25,<25,12.5,<25,,<25,,2024
+241901,Boling ISD,241,Wharton County,3,Victoria,<100,<25,30.7,<25,4.3,<25,34.8,2024
+241902,East Bernard ISD,241,Wharton County,3,Victoria,<100,<75,72.5,<25,19.0,<25,39.7,2024
+241903,El Campo ISD,241,Wharton County,3,Victoria,<250,<75,21.9,<25,20.4,<25,29.6,2024
+241904,Wharton ISD,241,Wharton County,3,Victoria,<150,<150,93.0,<25,1.5,<25,5.3,2024
+241906,Louise ISD,241,Wharton County,3,Victoria,<50,<25,35.7,<25,,<25,6.7,2024
+242902,Shamrock ISD,242,Wheeler County,16,Amarillo,<25,<25,25.0,<25,20.0,<25,20.0,2024
+242903,Wheeler ISD,242,Wheeler County,16,Amarillo,<50,<25,48.6,<25,23.5,<25,17.6,2024
+242905,Kelton ISD,242,Wheeler County,16,Amarillo,<25,<25,16.7,<25,,<25,,2024
+242906,Fort Elliott CISD,242,Wheeler County,16,Amarillo,<25,<25,100.0,<25,,<25,14.3,2024
+243901,Burkburnett ISD,243,Wichita County,9,Wichita Falls,214,151,70.6,27,17.9,48,31.8,2024
+243902,Electra ISD,243,Wichita County,9,Wichita Falls,<25,<50,100.0,<25,8.0,<25,28.0,2024
+243903,Iowa Park CISD,243,Wichita County,9,Wichita Falls,<125,<75,44.3,<25,37.0,<25,42.6,2024
+243905,Wichita Falls ISD,243,Wichita County,9,Wichita Falls,876,330,37.7,90,27.3,132,40.0,2024
+243906,City View ISD,243,Wichita County,9,Wichita Falls,<75,<25,28.8,<25,23.5,<25,23.5,2024
+244901,Harrold ISD,244,Wilbarger County,9,Wichita Falls,<25,<25,100.0,<25,10.0,<25,10.0,2024
+244903,Vernon ISD,244,Wilbarger County,9,Wichita Falls,137,114,83.2,10,8.8,12,10.5,2024
+244905,Northside ISD,244,Wilbarger County,9,Wichita Falls,<25,<25,100.0,<25,50.0,<25,56.3,2024
+245901,Lasara ISD,245,Willacy County,1,Edinburg,<25,<25,91.7,<25,,<25,,2024
+245902,Lyford CISD,245,Willacy County,1,Edinburg,<125,<125,89.6,<25,2.9,<25,2.9,2024
+245903,Raymondville ISD,245,Willacy County,1,Edinburg,<125,<100,78.6,<25,1.1,<25,,2024
+245904,San Perlita ISD,245,Willacy County,1,Edinburg,<25,<25,71.4,<25,,<25,,2024
+246801,Meridian World School LLC,246,Williamson County,13,Austin,<100,<75,94.8,<75,72.6,<75,72.6,2024
+246902,Florence ISD,246,Williamson County,13,Austin,<100,<50,49.0,<25,6.4,<25,21.3,2024
+246904,Georgetown ISD,246,Williamson County,13,Austin,"1,017",845,83.1,147,17.4,252,29.8,2024
+246905,Granger ISD,246,Williamson County,13,Austin,<50,<25,22.2,<25,16.7,<25,66.7,2024
+246906,Hutto ISD,246,Williamson County,13,Austin,616,186,30.2,46,24.7,87,46.8,2024
+246907,Jarrell ISD,246,Williamson County,13,Austin,<225,<200,98.5,<25,3.0,<25,11.6,2024
+246908,Liberty Hill ISD,246,Williamson County,13,Austin,473,386,81.6,103,26.7,169,43.8,2024
+246909,Round Rock ISD,246,Williamson County,13,Austin,"3,572","3,428",96.0,"1,343",39.2,"1,803",52.6,2024
+246911,Taylor ISD,246,Williamson County,13,Austin,<275,<250,88.2,<25,5.8,<50,16.7,2024
+246912,Thrall ISD,246,Williamson County,13,Austin,71,63,88.7,11,17.5,23,36.5,2024
+246913,Leander ISD,246,Williamson County,13,Austin,"3,219","3,065",95.2,"1,167",38.1,"1,684",54.9,2024
+247901,Floresville ISD,247,Wilson County,20,San Antonio,<300,<275,84.9,<25,5.5,<50,16.1,2024
+247903,La Vernia ISD,247,Wilson County,20,San Antonio,<200,<225,100.0,<50,16.9,<100,36.2,2024
+247904,Poth ISD,247,Wilson County,20,San Antonio,<75,<50,66.2,<25,15.6,<25,46.7,2024
+247906,Stockdale ISD,247,Wilson County,20,San Antonio,<75,<50,55.4,<25,6.5,<25,9.7,2024
+248901,Kermit ISD,248,Winkler County,18,Midland,<75,<75,94.5,<25,5.8,<25,4.3,2024
+248902,Wink-Loving ISD,248,Winkler County,18,Midland,<50,<25,54.8,<25,17.6,<25,35.3,2024
+249901,Alvord ISD,249,Wise County,11,Fort Worth,<75,<50,49.0,<25,32.0,<25,44.0,2024
+249902,Boyd ISD,249,Wise County,11,Fort Worth,83,68,81.9,7,10.3,14,20.6,2024
+249903,Bridgeport ISD,249,Wise County,11,Fort Worth,<150,<150,89.7,<25,4.6,<25,16.0,2024
+249904,Chico ISD,249,Wise County,11,Fort Worth,<50,<50,100.0,<25,3.4,<25,13.8,2024
+249905,Decatur ISD,249,Wise County,11,Fort Worth,<300,<250,88.2,<50,13.0,<75,26.4,2024
+249906,Paradise ISD,249,Wise County,11,Fort Worth,<100,<75,60.9,<25,19.6,<25,32.1,2024
+249908,Slidell ISD,249,Wise County,11,Fort Worth,<50,<50,100.0,<25,7.7,<25,15.4,2024
+250902,Hawkins ISD,250,Wood County,7,Kilgore,<50,<25,40.8,<25,15.0,<25,25.0,2024
+250903,Mineola ISD,250,Wood County,7,Kilgore,<100,<25,24.7,<25,17.4,<25,26.1,2024
+250904,Quitman ISD,250,Wood County,7,Kilgore,108,56,51.9,12,21.4,22,39.3,2024
+250905,Yantis ISD,250,Wood County,7,Kilgore,<50,<50,100.0,<25,8.6,<25,5.7,2024
+250906,Alba-Golden ISD,250,Wood County,7,Kilgore,57,28,49.1,10,35.7,14,50.0,2024
+250907,Winnsboro ISD,250,Wood County,7,Kilgore,<125,<100,68.4,<25,26.3,<50,45.0,2024
+251901,Denver City ISD,251,Yoakum County,17,Lubbock,<125,<50,41.8,<25,13.0,<25,13.0,2024
+251902,Plains ISD,251,Yoakum County,17,Lubbock,<50,<25,60.0,<25,,<25,11.1,2024
+252901,Graham ISD,252,Young County,9,Wichita Falls,138,70,50.7,19,27.1,25,35.7,2024
+252902,Newcastle ISD,252,Young County,9,Wichita Falls,<25,<25,70.0,<25,21.4,<25,57.1,2024
+252903,Olney ISD,252,Young County,9,Wichita Falls,56,41,73.2,9,22.0,16,39.0,2024
+253901,Zapata County ISD,253,Zapata County,1,Edinburg,<250,<200,75.3,<25,1.6,<25,3.2,2024
+254901,Crystal City ISD,254,Zavala County,20,San Antonio,<125,<50,25.6,<25,,<25,3.2,2024
+254902,La Pryor ISD,254,Zavala County,20,San Antonio,<50,<50,93.9,<25,,<25,,2024
